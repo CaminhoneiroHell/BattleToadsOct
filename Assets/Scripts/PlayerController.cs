@@ -6,11 +6,13 @@ public class PlayerController : MonoBehaviour
     #region Variables
 
     public Animator anim_player;
+    public GameObject kick;
     public GameObject bike;
     public GameObject flame;
     public Transform playerT;
     private Transform flameT;
 
+    public bool attack;
     bool isMoving;
     bool bikeChecker;
     bool facing_Right = true;
@@ -165,23 +167,28 @@ public class PlayerController : MonoBehaviour
     void Ride()
     {
         this.gameObject.tag = "Player";
+        attack = false;
     }
 
-    void BoostFront()
+    public void BoostFront()
     {
         GetComponent<Rigidbody2D>().AddForce(new Vector2(player_boost, 0));
-        this.gameObject.tag = "Attack";
+        //this.gameObject.tag = "Attack";
         anim_player.SetTrigger("BoostBike");
+        attack = true;
     }
 
-    void KickBack()
+    public void KickBack()
     {
-        this.gameObject.tag = "Attack";
+        //this.gameObject.tag = "Attack";
         anim_player.SetTrigger("KickBike");
+        kick.SetActive(true);
+        attack = true;
     }
 
-    void SpecialAttack()
+    public void SpecialAttack()
     {
+        attack = true;
         this.gameObject.tag = "Attack";
         anim_player.SetTrigger("SpecialAttack");
     }
@@ -230,43 +237,47 @@ public class PlayerController : MonoBehaviour
     Attack
     */
 
-    #region Score methods
-    public void CheckHighScore()
-    {
-        if (SumScore.Score > SumScore.HighScore)
-            SumScore.SaveHighScore();
-    }
+    //#region Score methods
+    //public void CheckHighScore()
+    //{
+    //    if (SumScore.Score > SumScore.HighScore)
+    //        SumScore.SaveHighScore();
+    //}
     
-    public void AddPoints(int points)
-    {
-        SumScore.Add(points);
-    }
-    #endregion
+    //public void AddPoints(int points)
+    //{
+    //    SumScore.Add(points);
+    //}
+    //#endregion
 
     private void OnTriggerEnter2D(Collider2D c)
     {
         if (c.tag == "Obstacle")
         {
           //  anim_player.SetBool("IdleBike", false);
-            anim_player.SetTrigger("DieBike");
+            //anim_player.SetTrigger("DieBike");
             flame.SetActive(false);
         }
 
-        if(c.tag == "Enemy" && this.gameObject.tag == "Player")
+        if(c.tag == "Enemy" && !kick)
         {
             anim_player.SetTrigger("DieBike");
-            flame.SetActive(false);
         }
 
-        if (c.tag == "Enemy" && this.gameObject.tag == "Attack")
+        if (c.tag == "Enemy" && kick)
         {
-            AddPoints(100);
-            Destroy(c.gameObject);
+            Debug.Log("Dei porrada");
         }
 
-        if(c.tag == "Item")
+        //if (c.tag == "Enemy" && this.gameObject.tag == "Attack")
+        //{
+        //    SumScore.Add(100);
+        //    Destroy(c.gameObject);
+        //}
+
+        if (c.tag == "Item")
         {
-            AddPoints(100);
+            SumScore.Add(100);
             Destroy(c.gameObject);
         }
     }

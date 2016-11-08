@@ -11,6 +11,7 @@ TagManager:
   - Attack
   - Boundary
   - Spawner
+  - Fire
   layers:
   - Default
   - TransparentFX

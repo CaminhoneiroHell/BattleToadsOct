@@ -8,6 +8,21 @@ public class SpawnerManager : MonoBehaviour {
     public float spawnDelay = 3f;
     public GameObject wave;
 
+    //Singleton
+    //private static SpawnerManager _instance;
+    //public static SpawnerManager Instance { get { return _instance; } }
+    //private void Awake()
+    //{
+    //    if (_instance != null && _instance != this)
+    //    {
+    //        Destroy(this.gameObject);
+    //    }
+    //    else
+    //    {
+    //        _instance = this;
+    //    }
+    //}
+
     void Start()
     {
         InvokeRepeating("Spawn", spawnDelay, spawnTime);

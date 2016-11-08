@@ -22,6 +22,21 @@ public class StageController : MonoBehaviour {
     public GameObject spawnerObstacleDown;
     public GameObject spawnerObstacleRed;
 
+    //Singleton
+    private static StageController _instance;
+    public static StageController Instance { get { return _instance; } }
+    private void Awake()
+    {
+        if (_instance != null && _instance != this)
+        {
+            Destroy(this.gameObject);
+        }
+        else
+        {
+            _instance = this;
+        }
+    }
+
     void Start()
     {
         StartCoroutine("StartStateRotine");           
@@ -29,7 +44,6 @@ public class StageController : MonoBehaviour {
 
     IEnumerator StartStateRotine()
     {
-
         print("Starting " + Time.time);
         yield return StartCoroutine("SummonStateRotine");
         print("Done " + Time.time);
