@@ -1,0 +1,3615 @@
+fileFormatVersion: 2
+guid: 826a52a62c43f7140969f181a6113dbc
+timeCreated: 1476791632
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spritesheet_Zitz_0
+    21300002: Spritesheet_Zitz_1
+    21300004: Spritesheet_Zitz_2
+    21300006: Spritesheet_Zitz_3
+    21300008: Spritesheet_Zitz_4
+    21300010: Spritesheet_Zitz_5
+    21300012: Spritesheet_Zitz_6
+    21300014: Spritesheet_Zitz_7
+    21300016: Spritesheet_Zitz_8
+    21300018: Spritesheet_Zitz_9
+    21300020: Spritesheet_Zitz_10
+    21300022: Spritesheet_Zitz_11
+    21300024: Spritesheet_Zitz_12
+    21300026: Spritesheet_Zitz_13
+    21300028: Spritesheet_Zitz_14
+    21300030: Spritesheet_Zitz_15
+    21300032: Spritesheet_Zitz_16
+    21300034: Spritesheet_Zitz_17
+    21300036: Spritesheet_Zitz_18
+    21300038: Spritesheet_Zitz_19
+    21300040: Spritesheet_Zitz_20
+    21300042: Spritesheet_Zitz_21
+    21300044: Spritesheet_Zitz_22
+    21300046: Spritesheet_Zitz_23
+    21300048: Spritesheet_Zitz_24
+    21300050: Spritesheet_Zitz_25
+    21300052: Spritesheet_Zitz_26
+    21300054: Spritesheet_Zitz_27
+    21300056: Spritesheet_Zitz_28
+    21300058: Spritesheet_Zitz_29
+    21300060: Spritesheet_Zitz_30
+    21300062: Spritesheet_Zitz_31
+    21300064: Spritesheet_Zitz_32
+    21300066: Spritesheet_Zitz_33
+    21300068: Spritesheet_Zitz_34
+    21300070: Spritesheet_Zitz_35
+    21300072: Spritesheet_Zitz_36
+    21300074: Spritesheet_Zitz_37
+    21300076: Spritesheet_Zitz_38
+    21300078: Spritesheet_Zitz_39
+    21300080: Spritesheet_Zitz_40
+    21300082: Spritesheet_Zitz_41
+    21300084: Spritesheet_Zitz_42
+    21300086: Spritesheet_Zitz_43
+    21300088: Spritesheet_Zitz_44
+    21300090: Spritesheet_Zitz_45
+    21300092: Spritesheet_Zitz_46
+    21300094: Spritesheet_Zitz_47
+    21300096: Spritesheet_Zitz_48
+    21300098: Spritesheet_Zitz_49
+    21300100: Spritesheet_Zitz_50
+    21300102: Spritesheet_Zitz_51
+    21300104: Spritesheet_Zitz_52
+    21300106: Spritesheet_Zitz_53
+    21300108: Spritesheet_Zitz_54
+    21300110: Spritesheet_Zitz_55
+    21300112: Spritesheet_Zitz_56
+    21300114: Spritesheet_Zitz_57
+    21300116: Spritesheet_Zitz_58
+    21300118: Spritesheet_Zitz_59
+    21300120: Spritesheet_Zitz_60
+    21300122: Spritesheet_Zitz_61
+    21300124: Spritesheet_Zitz_62
+    21300126: Spritesheet_Zitz_63
+    21300128: Spritesheet_Zitz_64
+    21300130: Spritesheet_Zitz_65
+    21300132: Spritesheet_Zitz_66
+    21300134: Spritesheet_Zitz_67
+    21300136: Spritesheet_Zitz_68
+    21300138: Spritesheet_Zitz_69
+    21300140: Spritesheet_Zitz_70
+    21300142: Spritesheet_Zitz_71
+    21300144: Spritesheet_Zitz_72
+    21300146: Spritesheet_Zitz_73
+    21300148: Spritesheet_Zitz_74
+    21300150: Spritesheet_Zitz_75
+    21300152: Spritesheet_Zitz_76
+    21300154: Spritesheet_Zitz_77
+    21300156: Spritesheet_Zitz_78
+    21300158: Spritesheet_Zitz_79
+    21300160: Spritesheet_Zitz_80
+    21300162: Spritesheet_Zitz_81
+    21300164: Spritesheet_Zitz_82
+    21300166: Spritesheet_Zitz_83
+    21300168: Spritesheet_Zitz_84
+    21300170: Spritesheet_Zitz_85
+    21300172: Spritesheet_Zitz_86
+    21300174: Spritesheet_Zitz_87
+    21300176: Spritesheet_Zitz_88
+    21300178: Spritesheet_Zitz_89
+    21300180: Spritesheet_Zitz_90
+    21300182: Spritesheet_Zitz_91
+    21300184: Spritesheet_Zitz_92
+    21300186: Spritesheet_Zitz_93
+    21300188: Spritesheet_Zitz_94
+    21300190: Spritesheet_Zitz_95
+    21300192: Spritesheet_Zitz_96
+    21300194: Spritesheet_Zitz_97
+    21300196: Spritesheet_Zitz_98
+    21300198: Spritesheet_Zitz_99
+    21300200: Spritesheet_Zitz_100
+    21300202: Spritesheet_Zitz_101
+    21300204: Spritesheet_Zitz_102
+    21300206: Spritesheet_Zitz_103
+    21300208: Spritesheet_Zitz_104
+    21300210: Spritesheet_Zitz_105
+    21300212: Spritesheet_Zitz_106
+    21300214: Spritesheet_Zitz_107
+    21300216: Spritesheet_Zitz_108
+    21300218: Spritesheet_Zitz_109
+    21300220: Spritesheet_Zitz_110
+    21300222: Spritesheet_Zitz_111
+    21300224: Spritesheet_Zitz_112
+    21300226: Spritesheet_Zitz_113
+    21300228: Spritesheet_Zitz_114
+    21300230: Spritesheet_Zitz_115
+    21300232: Spritesheet_Zitz_116
+    21300234: Spritesheet_Zitz_117
+    21300236: Spritesheet_Zitz_118
+    21300238: Spritesheet_Zitz_119
+    21300240: Spritesheet_Zitz_120
+    21300242: Spritesheet_Zitz_121
+    21300244: Spritesheet_Zitz_122
+    21300246: Spritesheet_Zitz_123
+    21300248: Spritesheet_Zitz_124
+    21300250: Spritesheet_Zitz_125
+    21300252: Spritesheet_Zitz_126
+    21300254: Spritesheet_Zitz_127
+    21300256: Spritesheet_Zitz_128
+    21300258: Spritesheet_Zitz_129
+    21300260: Spritesheet_Zitz_130
+    21300262: Spritesheet_Zitz_131
+    21300264: Spritesheet_Zitz_132
+    21300266: Spritesheet_Zitz_133
+    21300268: Spritesheet_Zitz_134
+    21300270: Spritesheet_Zitz_135
+    21300272: Spritesheet_Zitz_136
+    21300274: Spritesheet_Zitz_137
+    21300276: Spritesheet_Zitz_138
+    21300278: Spritesheet_Zitz_139
+    21300280: Spritesheet_Zitz_140
+    21300282: Spritesheet_Zitz_141
+    21300284: Spritesheet_Zitz_142
+    21300286: Spritesheet_Zitz_143
+    21300288: Spritesheet_Zitz_144
+    21300290: Spritesheet_Zitz_145
+    21300292: Spritesheet_Zitz_146
+    21300294: Spritesheet_Zitz_147
+    21300296: Spritesheet_Zitz_148
+    21300298: Spritesheet_Zitz_149
+    21300300: Spritesheet_Zitz_150
+    21300302: Spritesheet_Zitz_151
+    21300304: Spritesheet_Zitz_152
+    21300306: Spritesheet_Zitz_153
+    21300308: Spritesheet_Zitz_154
+    21300310: Spritesheet_Zitz_155
+    21300312: Spritesheet_Zitz_156
+    21300314: Spritesheet_Zitz_157
+    21300316: Spritesheet_Zitz_158
+    21300318: Spritesheet_Zitz_159
+    21300320: Spritesheet_Zitz_160
+    21300322: Spritesheet_Zitz_161
+    21300324: Spritesheet_Zitz_162
+    21300326: Spritesheet_Zitz_163
+    21300328: Spritesheet_Zitz_164
+    21300330: Spritesheet_Zitz_165
+    21300332: Spritesheet_Zitz_166
+    21300334: Spritesheet_Zitz_167
+    21300336: Spritesheet_Zitz_168
+    21300338: Spritesheet_Zitz_169
+    21300340: Spritesheet_Zitz_170
+    21300342: Spritesheet_Zitz_171
+    21300344: Spritesheet_Zitz_172
+    21300346: Spritesheet_Zitz_173
+    21300348: Spritesheet_Zitz_174
+    21300350: Spritesheet_Zitz_175
+    21300352: Spritesheet_Zitz_176
+    21300354: Spritesheet_Zitz_177
+    21300356: Spritesheet_Zitz_178
+    21300358: Spritesheet_Zitz_179
+    21300360: Spritesheet_Zitz_180
+    21300362: Spritesheet_Zitz_181
+    21300364: Spritesheet_Zitz_182
+    21300366: Spritesheet_Zitz_183
+    21300368: Spritesheet_Zitz_184
+    21300370: Spritesheet_Zitz_185
+    21300372: Spritesheet_Zitz_186
+    21300374: Spritesheet_Zitz_187
+    21300376: Spritesheet_Zitz_188
+    21300378: Spritesheet_Zitz_189
+    21300380: Spritesheet_Zitz_190
+    21300382: Spritesheet_Zitz_191
+    21300384: Spritesheet_Zitz_192
+    21300386: Spritesheet_Zitz_193
+    21300388: Spritesheet_Zitz_194
+    21300390: Spritesheet_Zitz_195
+    21300392: Spritesheet_Zitz_196
+    21300394: Spritesheet_Zitz_197
+    21300396: Spritesheet_Zitz_198
+    21300398: Spritesheet_Zitz_199
+    21300400: Spritesheet_Zitz_200
+    21300402: Spritesheet_Zitz_201
+    21300404: Spritesheet_Zitz_202
+    21300406: Spritesheet_Zitz_203
+    21300408: Spritesheet_Zitz_204
+    21300410: Spritesheet_Zitz_205
+    21300412: Spritesheet_Zitz_206
+    21300414: Spritesheet_Zitz_207
+    21300416: Spritesheet_Zitz_208
+    21300418: Spritesheet_Zitz_209
+    21300420: Spritesheet_Zitz_210
+    21300422: Spritesheet_Zitz_211
+    21300424: Spritesheet_Zitz_212
+    21300426: Spritesheet_Zitz_213
+    21300428: Spritesheet_Zitz_214
+    21300430: Spritesheet_Zitz_215
+    21300432: Spritesheet_Zitz_216
+    21300434: Spritesheet_Zitz_217
+    21300436: Spritesheet_Zitz_218
+    21300438: Spritesheet_Zitz_219
+    21300440: Spritesheet_Zitz_220
+    21300442: Spritesheet_Zitz_221
+    21300444: Spritesheet_Zitz_222
+    21300446: Spritesheet_Zitz_223
+    21300448: Spritesheet_Zitz_224
+    21300450: Spritesheet_Zitz_225
+    21300452: Spritesheet_Zitz_226
+    21300454: Spritesheet_Zitz_227
+    21300456: Spritesheet_Zitz_228
+    21300458: Spritesheet_Zitz_229
+    21300460: Spritesheet_Zitz_230
+    21300462: Spritesheet_Zitz_231
+    21300464: Spritesheet_Zitz_232
+    21300466: Spritesheet_Zitz_233
+    21300468: Spritesheet_Zitz_234
+    21300470: Spritesheet_Zitz_235
+    21300472: Spritesheet_Zitz_236
+    21300474: Spritesheet_Zitz_237
+    21300476: Spritesheet_Zitz_238
+    21300478: Spritesheet_Zitz_239
+    21300480: Spritesheet_Zitz_240
+    21300482: Spritesheet_Zitz_241
+    21300484: Spritesheet_Zitz_242
+    21300486: Spritesheet_Zitz_243
+    21300488: Spritesheet_Zitz_244
+    21300490: Spritesheet_Zitz_245
+    21300492: Spritesheet_Zitz_246
+    21300494: Spritesheet_Zitz_247
+    21300496: Spritesheet_Zitz_248
+    21300498: Spritesheet_Zitz_249
+    21300500: Spritesheet_Zitz_250
+    21300502: Spritesheet_Zitz_251
+    21300504: Spritesheet_Zitz_252
+    21300506: Spritesheet_Zitz_253
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 916
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 918
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 914
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 916
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 916
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 919
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 919
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 918
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 917
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 916
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 915
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 920
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 909
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 905
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_14
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 913
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_15
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 914
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 835
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 835
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 835
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 836
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 836
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 836
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 835
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 834
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_24
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 834
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_25
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 834
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 835
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_27
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 834
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 833
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_29
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 832
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_30
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 835
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_31
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 831
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 833
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_33
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 831
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 772
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 772
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 771
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 771
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 771
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 771
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 771
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 772
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 773
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 702
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 701
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 700
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 701
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 709
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 699
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_49
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 699
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_50
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 698
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 700
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_52
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 701
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_53
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 704
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_54
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 706
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_55
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 706
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_56
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 706
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 706
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 627
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 626
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 625
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 640
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 624
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_63
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 624
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_64
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 623
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_65
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 627
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 627
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 626
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 626
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 630
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_70
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 631
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_71
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 628
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_72
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 639
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 578
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_74
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 578
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 579
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 576
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_78
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 573
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_79
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 580
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_80
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 580
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_81
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 583
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_82
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 576
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_83
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 581
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 517
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 519
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 515
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_87
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 517
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 517
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_89
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 519
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_90
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 517
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 517
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_92
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 518
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_93
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 517
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_94
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 515
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_95
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 517
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_96
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 515
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_97
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 515
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_98
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 523
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_99
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 519
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_100
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 519
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_101
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 518
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 410
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_103
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 406
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_104
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 408
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_105
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 469
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_106
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 410
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 410
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_108
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 410
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_109
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 407
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_110
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 403
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_111
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 400
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_112
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 402
+        width: 87
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_113
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 338
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_114
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 337
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_115
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 339
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 338
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_117
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 339
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_118
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 336
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_119
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 338
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_120
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 336
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_121
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 338
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_122
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 338
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_123
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 272
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_124
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 272
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 270
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_126
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 272
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_127
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 274
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_128
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 275
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_129
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 274
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_130
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 274
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 274
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_132
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 273
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_133
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 274
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_134
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 275
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_135
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 276
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_136
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 273
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_137
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 275
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_138
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 275
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_139
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 274
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_140
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 274
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_141
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 273
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_142
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 213
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_143
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 212
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_144
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 212
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_145
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 212
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_146
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 212
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_147
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 239
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_148
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 239
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_149
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 239
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 239
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 239
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_152
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 239
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_153
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 239
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_154
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 240
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_155
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 212
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_156
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 208
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_157
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 217
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_158
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 217
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_159
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 217
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_160
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 217
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_161
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 217
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_162
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 217
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_163
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 217
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_164
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 216
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_165
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 215
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_166
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 146
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_167
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 145
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_168
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 145
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_169
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 144
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_170
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 145
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_171
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 147
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_172
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 148
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_173
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 189
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_174
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 144
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_175
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 145
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_176
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 141
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_177
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 193
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_178
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 144
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_179
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 145
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_180
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 144
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_181
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 142
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_182
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 143
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_183
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 140
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_184
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 143
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_185
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 180
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_186
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 143
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_187
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 141
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_188
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 146
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_189
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 144
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_190
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 157
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_191
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_194
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 111
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_195
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_196
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_197
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 111
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_198
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 50
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_199
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 50
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_200
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 50
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_201
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 38
+        width: 141
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_202
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 91
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_203
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_204
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_205
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 39
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_206
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_207
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 42
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_208
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_209
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_210
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_211
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 23
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_212
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_213
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_214
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_215
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_216
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_217
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_218
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_219
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_220
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_221
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_222
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 23
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_223
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_224
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_225
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_226
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_227
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 19
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_228
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_229
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 23
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_230
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_231
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_232
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_233
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 23
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_234
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_235
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_236
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_237
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_238
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_239
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_240
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_241
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_242
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_243
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_244
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_245
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_246
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_247
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_248
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_249
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_250
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_251
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_252
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Zitz_253
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

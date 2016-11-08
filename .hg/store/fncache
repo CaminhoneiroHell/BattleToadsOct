@@ -1,0 +1,869 @@
+data/Assets/Standard Assets/2D/Prefabs/Platform16x01.prefab.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab.i
+data/Library/metadata/d7/d73a8b77a39f57843b3a434596ae2bc7.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta.i
+data/ProjectSettings/TimeManager.asset.i
+data/Library/InspectorExpandedItems.asset.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump10.anim.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump08.anim.meta.i
+data/Library/metadata/d4/d40c191aa46654db7a426d6a1fa3aa30.info.i
+data/Library/metadata/06/0626b924325d1c34cafa6b22297f4e4f.i
+data/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.i
+data/Library/metadata/17/174090ae7f9eff84abe76f0ff062efac.info.i
+data/Library/metadata/9c/9c4978ff6447f9040b84acc89b0bbdc8.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png.i
+data/Library/metadata/c3/c3d7b34a3bb2d4e4b926e7e729d3d410.info.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png.d
+data/Library/metadata/00/00000000000000004000000000000000.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs.i
+data/Library/metadata/ec/ecc45c9fc8058c744b5210a98850330e.i
+data/Library/metadata/f6/f6ddb8335ce8b2d499386b34c53d61ee.info.i
+data/Assembly-CSharp-firstpass.csproj.i
+data/Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs.i
+data/Library/metadata/80/801ef4560936ace40a8a07bfc080c53e.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump02.anim.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump11.anim.i
+data/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.i
+data/OktagonBattletoadsChallenge.sln.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts.meta.i
+data/Library/ShaderCache/9/956cc8410b10c26b27aae967bab45ebb.bin.i
+data/Library/metadata/19/19bf9c5d4c01a864baffb3ac0dc54a9b.info.i
+data/Assets/Standard Assets/Utility/FOVKick.cs.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.i
+data/Assets/Standard Assets/Utility/LerpControlledBob.cs.meta.i
+data/Library/metadata/73/7305e9c6865e8ed45bf0283a0ff9fc9d.info.i
+data/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs.i
+data/Library/metadata/99/999388b68bb99b44099461bfbed94358.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump05.anim.i
+data/Library/metadata/5c/5c2d84226fbbaf94e9c1451f1c39b06a.i
+data/ProjectSettings/ProjectVersion.txt.i
+data/Assets/Standard Assets/2D/Sprites/BackgroundGreyGridSprite.png.meta.i
+data/Library/metadata/0e/0eb16b4b3e362ef4f97494dd0e686c46.info.i
+data/Library/metadata/0b/0b7c6de059fcdfc4baafb3ca4cdcb56b.info.i
+data/Library/metadata/82/826a52a62c43f7140969f181a6113dbc.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1/JumpBike.anim.i
+data/Library/metadata/9e/9e1a2edf6149977479db158e4fbf9671.i
+data/Library/metadata/10/105e9f800237bf347856325e8d7ae493.info.i
+data/Library/metadata/dc/dc23f232745a5d345b0b76c9272e647d.info.i
+data/Library/metadata/6b/6b6ff2b3d33ee95439cbe249fc80211a.info.i
+data/Library/metadata/d0/d08f91df3bd212f429df17f53ce2f364.i
+data/Library/metadata/6b/6b6ff2b3d33ee95439cbe249fc80211a.info.d
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump02.anim.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1/DieBike.anim.i
+data/Library/metadata/69/69b69a5b0e0a85b4aa97a7edc40c37d1.info.i
+data/Library/ShaderCache/8/8a260b5b8b7bfa7301a692145ad82420.bin.i
+data/Assets/Standard Assets/Utility/CurveControlledBob.cs.meta.i
+data/Library/metadata/ca/ca28903b6d2636b47b24c2b6bfe62386.info.i
+data/Library/metadata/f6/f6ddb8335ce8b2d499386b34c53d61ee.i
+data/Library/metadata/e9/e94a3b96b1dbb7443b18f1c1f5b041f8.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta.i
+data/Library/metadata/d8/d8134e4dd9a11c6468abfb1683315eab.i
+data/Assets/Standard Assets/Utility/ForcedReset.cs.i
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves/KickBike.anim.meta.i
+data/Assets/Standard Assets/Utility/ForcedReset.cs.meta.i
+data/Library/metadata/ea/ea5873cfd9158664f89459f0c9e1d853.info.i
+data/Library/metadata/16/1652bfd5c3c19c141a6bb6e5b7069709.i
+data/Library/metadata/b2/b27507c5d0efbbd47ac8c1de9a1a0a35.info.i
+data/Library/metadata/5f/5fc43f0c4b413534ba12c51c0e5e5f6f.info.i
+data/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs.meta.i
+data/Library/metadata/3a/3a7cedf246fca744f90cbdc9dbe41166.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/SpecialAtack2.anim.i
+data/Library/metadata/70/70852dc981465ea48bb527b9e33a87fd.i
+data/Library/metadata/57/57977547c59abb546bbb1501e3c417db.i
+data/Library/metadata/29/29014cd42b6d273408e0ceefd336c0b3.info.i
+data/Library/metadata/42/4251afdc796eb4846afdcc551dcafd27.info.i
+data/Library/metadata/04/04c2ee985bb1a9849b5a6e8bee482aed.info.i
+data/Library/metadata/97/97d5d1510f534a945b72454be72281cc.i
+data/Library/assetDatabase3.i
+data/Assets/Standard Assets/Utility/TimedObjectActivator.cs.meta.i
+data/Library/metadata/8e/8ec644fcefcbc754ea044194f1a7d178.info.i
+data/Assets/Standard Assets/Utility/CameraRefocus.cs.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Crouch.anim.meta.i
+data/Library/metadata/64/643c971818f68d3439e84b5d8bdafe07.info.i
+data/Assets/Sprite/Spritesheet_Zitz.png.i
+data/Library/metadata/a1/a1347817507220a4384f3ff6f7c24546.i
+data/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs.meta.i
+data/Assets/Standard Assets/Utility/SmoothFollow.cs.meta.i
+data/Library/metadata/d4/d4d91c39ad2a0564998931ffe8582ffe.i
+data/Library/metadata/00/00000000000000007000000000000000.i
+data/Assets/Sprite/Spritesheet_Zitz.png.d
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump07.anim.meta.i
+data/Library/metadata/93/937a0752a6837e041b0c1ff0d2cf663c.info.i
+data/Library/metadata/67/674c23718320e9d498cdad2a5bcd576a.i
+data/Library/metadata/4d/4de8366817f8f1245bed4520bbc0c1d8.info.i
+data/Library/metadata/78/78733126964231346acb3d8e3acdfe1e.info.i
+data/Library/metadata/9a/9ab98b66288df7b4fa182075f2f12bd6.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs.meta.i
+data/Library/metadata/bc/bce91bfe9ac71be44a3f76eb03dff596.info.i
+data/Library/metadata/c1/c1f21e20e7ec10c4ebaa09c81cb1f179.i
+data/Library/EditorUserSettings.asset.i
+data/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.i
+data/Assets/Textures/Texture_Background.png.i
+data/Library/metadata/5d/5d3fb8e05edcf4b41aef584ca1b0d06f.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump11.anim.meta.i
+data/Library/metadata/98/9866a92691696b346901281f2b329034.info.i
+data/Assets/Sprite/SNES - Battletoads and Double Dragon - Stage 2.png.d
+data/Library/metadata/00/00000000000000006100000000000000.info.i
+data/Library/metadata/57/57f38812aafe77142bf0c4ec50ff9c3a.i
+data/Library/ShaderCache/a/a56099a0b6ff461233b31b8b7e5ea0f3.bin.i
+data/Assets/Sprite/SNES - Battletoads and Double Dragon - Stage 2.png.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Walk.anim.i
+data/Library/metadata/fe/feda0c18015b3284cabbc0da85254f9a.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Idle.anim.meta.i
+data/Assets/Scenes/Redroom.unity.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta.i
+data/Library/metadata/97/97d5d1510f534a945b72454be72281cc.info.i
+data/Library/metadata/82/826a52a62c43f7140969f181a6113dbc.d
+data/Assets/Standard Assets/2D/Sprites/PlatformWhiteSprite.png.i
+data/Library/metadata/85/8566902b50d5bfb4fb7f8b89f9cdbe8b.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.i
+data/Assets/Standard Assets/Utility/ActivateTrigger.cs.i
+data/Library/metadata/71/710bc43f80d178548bd226c252c8e65b.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1/KickBike.anim.meta.i
+data/Library/metadata/1d/1d0c184845252df44a655359de388cb8.info.i
+data/Assets/Music.meta.i
+data/Library/metadata/27/272ba847f100d4251bb8260575189042.info.i
+data/Library/metadata/f4/f45a39483cf4f914a816af821c9262bb.i
+data/Assets/Standard Assets/2D/Prefabs/PlatformRamp.prefab.meta.i
+data/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache.i
+data/Library/metadata/36/3626fe8e008014f6bbd19bb72937b311.i
+data/Library/metadata/85/85bf3be603548374ca46f521a3aa7fda.i
+data/Library/metadata/ae/aee823fce49a2074db430d81a1405aca.i
+data/Library/metadata/67/674c23718320e9d498cdad2a5bcd576a.info.i
+data/Library/metadata/eb/eb8eae7fe5e5c75419324504b694092d.i
+data/Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs.i
+data/Assets/Music/Battletoads  Double Dragon (Stage 2 Remix) (2).mp3.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump10.anim.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump04.anim.i
+data/Assets/Standard Assets/2D/Sprites/CratePinkGridSprite.png.meta.i
+data/Library/metadata/5c/5c2d84226fbbaf94e9c1451f1c39b06a.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves/IdleBike.anim.i
+data/Library/metadata/18/1835e4537efbdd94b93c2dd136860f1d.i
+data/Assets/Standard Assets/2D/Materials.meta.i
+data/Library/metadata/b6/b6fac374594252145b045395449bc9b2.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png.meta.i
+data/Library/EditorUserBuildSettings.asset.i
+data/Library/metadata/8e/8ecd0934154ea9c478812b110663a56c.info.i
+data/Library/metadata/71/71398ce7fbc3a5b4fa50b50bd54317a7.i
+data/Library/metadata/49/492f54f4accf00440828ffcb9e4fcc19.i
+data/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info.i
+data/Library/metadata/49/49b611e658efbf443b686a4036f74fe3.i
+data/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb.i
+data/Library/metadata/d1/d1e2e7a54dcc8694ab1eca46d072f264.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/SpecialAtack2.anim.i
+data/Library/metadata/fe/feda0c18015b3284cabbc0da85254f9a.d
+data/Library/metadata/7d/7d3269566d48b8447bb48d2259e28f8b.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs.meta.i
+data/Assets/Sprite/Spritesheet_Items.png.meta.i
+data/Assets/Standard Assets/Utility/WaypointProgressTracker.cs.i
+data/Library/metadata/23/2336188e92e768148a1c5640bc521c4f.info.i
+data/Library/metadata/0b/0bc72db1e9dcb9647818df5a07871127.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/PunchB.anim.i
+data/Assets/Standard Assets/Utility/SmoothFollow.cs.i
+data/Assets/Standard Assets/CrossPlatformInput.meta.i
+data/Assets/Standard Assets/Utility/DragRigidbody.cs.meta.i
+data/Library/ShaderCache/a/a4b57ec101e1796c16bea539f0dbb2e3.bin.i
+data/Library/metadata/87/87defe4543f47ef41b345453900fe949.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.i
+data/Library/metadata/18/1829b8c50e4108f4b936e37f91181337.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs.meta.i
+data/Library/ShaderCache/2/2be4f4a7cc6d148fdcf85ef2fedfdfd1.bin.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs.i
+data/Library/metadata/07/078bf204f06fcac44978d49dd094b43e.info.i
+data/Library/metadata/9e/9e1a2edf6149977479db158e4fbf9671.info.i
+data/Library/metadata/12/12ef7cbdfe0e143fa858a324456c8979.i
+data/Library/metadata/60/6045a93fb05b9c74884821030da2c46c.info.i
+data/Library/ScriptMapper.i
+data/Library/metadata/2a/2a71c12ae885e4f80b5144a4652bbeb4.info.i
+data/Library/metadata/f5/f588d850485d0ae479d73cf3bd0b7b00.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Hit.anim.meta.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png.meta.i
+data/Library/metadata/ba/ba60bcc11179c5e47adb0aa0e7a9f419.i
+data/Library/metadata/00/00000000000000001000000000000000.info.i
+data/Library/metadata/fb/fb2ab417c38f9c9468b8361a3c41bc45.info.i
+data/Library/metadata/00/00000000000000002000000000000000.i
+data/Library/metadata/3d/3d8675433a508ec47b8f895201eacf20.i
+data/Library/metadata/3f/3f7f63dcc0c4e844fbf5a22bf0fc1deb.info.i
+data/Library/metadata/b2/b27507c5d0efbbd47ac8c1de9a1a0a35.i
+data/Library/ShaderCache/6/6999cb7e65634fd5c0a9418bb842d7eb.bin.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png.d
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/SpecialAtack.anim.meta.i
+data/Library/metadata/27/27dbec7630294d64c9ab91261656cbd4.i
+data/Assets/Standard Assets/Utility/DynamicShadowSettings.cs.meta.i
+data/Library/metadata/83/834ffee7dd4aaad43a009afff5ce5fee.info.i
+data/Library/metadata/78/78733126964231346acb3d8e3acdfe1e.i
+data/Library/metadata/37/37fac21d1f093d344816942d1abce94e.info.i
+data/Library/metadata/87/87a2357765801c34292d6718d8b4d770.info.i
+data/Library/metadata/f7/f76806479d916a64aa03f8e3eba7912f.i
+data/Library/metadata/ba/ba60bcc11179c5e47adb0aa0e7a9f419.d
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/SpecialAtack.anim.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy.meta.i
+data/Library/metadata/06/065bfa6399b5fde4489512180c638d60.info.i
+data/Library/metadata/00/00000000000000006000000000000000.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.i
+data/Library/metadata/85/8566902b50d5bfb4fb7f8b89f9cdbe8b.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Crouch.anim.i
+data/Assets/Standard Assets/Utility/PlatformSpecificContent.cs.meta.i
+data/Library/metadata/4d/4db017495c69e8140a56a0e2b669e3f8.i
+data/Library/metadata/27/2750ff91e3c2f664ea1fe55030d46b3c.resource.i
+data/Library/metadata/95/9529ecc3d479da5499993355e6c2cb4f.i
+data/Assets/Standard Assets/2D/PhysicsMaterials/Sticky.physicsMaterial2D.meta.i
+data/Library/metadata/97/9703d53e47195aa4190acd11369ccd1b.info.i
+data/Library/metadata/e4/e4f1fee3de32377429fd1348fae62b10.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab.i
+data/Library/metadata/9b/9b886447cba80f74e820adb3c9e70c76.info.i
+data/Library/metadata/e0/e053b0a94752146e79954ce4df1b5565.info.i
+data/Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs.meta.i
+data/Library/metadata/ae/aee823fce49a2074db430d81a1405aca.info.i
+data/Assets/Standard Assets/2D/Prefabs/Platform04x01.prefab.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.i
+data/Library/metadata/7d/7d3269566d48b8447bb48d2259e28f8b.i
+data/Assets/Standard Assets/Utility/PlatformSpecificContent.cs.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Idle.anim.meta.i
+data/Library/metadata/9c/9c0578910bbe00d43919a92c7b9893fe.info.i
+data/Library/metadata/ef/efd99646c05e30b44ba2a6db6f1ccef2.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/UpperPunch.anim.meta.i
+data/Library/metadata/ea/ea5873cfd9158664f89459f0c9e1d853.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png.i
+data/Library/metadata/e9/e94a3b96b1dbb7443b18f1c1f5b041f8.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump01.anim.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs.i
+data/Library/metadata/c5/c5cb22d331ef7d64796f917c6a455a32.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/SpecialAtack.anim.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Punch.anim.meta.i
+data/Library/metadata/f8/f89aed02206e1b644b466595eb1d47fa.info.i
+data/Library/metadata/c0/c0a7d070d2b4aae47afae682910c04cd.i
+data/Assets/Standard Assets/2D/Prefabs/Platform08x01.prefab.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab.i
+data/ProjectSettings/UnityConnectSettings.asset.i
+data/Library/metadata/9e/9e1a2edf6149977479db158e4fbf9671.info.d
+data/Library/metadata/0c/0c6271a290ef75b4c97d58746c86c5b8.i
+data/Library/shadercompiler-UnityShaderCompiler.exe0.log.i
+data/Library/metadata/b6/b656cca21e797074a84563027a508ce1.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves/JumpBike.anim.i
+data/Assets/Standard Assets/2D/Animator/2dCharacterAnimatorFritz.controller.meta.i
+data/Library/metadata/00/00000000000000007000000000000000.info.i
+data/Library/metadata/99/999388b68bb99b44099461bfbed94358.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/CrouchWalk.anim.i
+data/Assets/Standard Assets/Utility/EventSystemChecker.cs.meta.i
+data/Library/metadata/19/19bf9c5d4c01a864baffb3ac0dc54a9b.i
+data/Library/metadata/e4/e4f1fee3de32377429fd1348fae62b10.info.i
+data/Assets/Standard Assets/2D/Scripts/Restarter.cs.i
+data/Library/metadata/ba/ba4eef1c1bb56b444b143beb8d3e30d5.i
+data/Library/metadata/00/0000000000000000a000000000000000.info.i
+data/Library/metadata/5d/5d8238cc53530b64fbb7828c3d3bb591.i
+data/Assets/Standard Assets/Utility/FPSCounter.cs.meta.i
+data/Library/metadata/97/9703d53e47195aa4190acd11369ccd1b.i
+data/Assets/Standard Assets/Utility/SimpleMouseRotator.cs.meta.i
+data/Library/metadata/c4/c4e551306c22ebe4da48e749c9a29f65.info.i
+data/Library/metadata/b6/b6fac374594252145b045395449bc9b2.info.i
+data/Assets/Standard Assets/2D/Prefabs/CollisionSlider.prefab.meta.i
+data/Library/metadata/b7/b74a67a345b8adf4abb7b317a7efdce7.info.i
+data/Library/metadata/00/00000000000000005000000000000000.info.i
+data/Library/metadata/04/04c2ee985bb1a9849b5a6e8bee482aed.i
+data/Assets/Standard Assets/2D/PhysicsMaterials/Slippery.physicsMaterial2D.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves.meta.i
+data/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info.i
+data/Assets/Standard Assets/2D/Animations.meta.i
+data/Library/metadata/22/22bbf57ec543cee42a5aa0ec2dd9e457.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Idle.anim.i
+data/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs.i
+data/Library/metadata/f4/f45a39483cf4f914a816af821c9262bb.info.d
+data/Library/metadata/98/9866a92691696b346901281f2b329034.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1/KickBike.anim.i
+data/Assets/Standard Assets/2D/Prefabs/Platform12x01.prefab.meta.i
+data/Library/metadata/57/57977547c59abb546bbb1501e3c417db.info.i
+data/Library/metadata/a1/a1347817507220a4384f3ff6f7c24546.info.i
+data/Assets/Standard Assets/2D/Prefabs/Killzone.prefab.i
+data/Library/metadata/82/827c9cd4a3943534f909ac6473e17288.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Punch.anim.meta.i
+data/Assets/Editor.meta.i
+data/Assets/Standard Assets/2D/PhysicsMaterials.meta.i
+data/Library/metadata/03/03bedf7094c479549beb9434f2033c2e.info.i
+data/Assets/Standard Assets/Utility/AlphaButtonClickMask.cs.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Scary.anim.i
+data/Library/ShaderCache/e/e6042cf20e2d8b7e7ff73cadc8523b7a.bin.i
+data/Library/ShaderCache.db.i
+data/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta.i
+data/Library/AnnotationManager.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump11.anim.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump06.anim.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs.meta.i
+data/Library/metadata/70/70852dc981465ea48bb527b9e33a87fd.info.i
+data/Library/metadata/ea/ea8de2bffae42f247bd2471ef62a3511.i
+data/Library/metadata/0b/0bc72db1e9dcb9647818df5a07871127.info.i
+data/Library/metadata/3c/3c0ad459c1534645b5d603b7cc258f97.info.i
+data/Assets/Standard Assets/2D/Prefabs/Platform36x01.prefab.i
+data/Library/metadata/c2/c26d736b011afbd49bc54e1c5c982fec.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/CrouchWalk.anim.meta.i
+data/Library/metadata/9f/9fe9f3762bf11e649b6bf2a8a1940c52.info.i
+data/Assets/Standard Assets/2D/Scripts/CameraFollow.cs.i
+data/Assets/Standard Assets/2D/Prefabs/Killzone.prefab.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump06.anim.meta.i
+data/Library/metadata/6a/6ac1ce5a5adfd9f46adbf5b6f752a47c.i
+data/Library/metadata/c5/c5944ac50c6dc9442844cef438bb36fe.i
+data/Library/metadata/ca/cadd54e4832aeef4b9359f44cbe335cd.i
+data/Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab.meta.i
+data/Library/metadata/25/252242858ce18134e87acc9671c308b3.info.i
+data/Library/metadata/1c/1caf40fc8bebb6b43b2550c05ca791d6.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump08.anim.meta.i
+data/Library/metadata/82/826a52a62c43f7140969f181a6113dbc.info.i
+data/Library/metadata/39/39c9faed76dfcfd42b62065435e8da37.info.i
+data/Library/metadata/00/00000000000000008100000000000000.info.i
+data/Library/metadata/a3/a3983c59ebf804b4abba687bd7c9e92f.i
+data/Library/metadata/a9/a9dfad760b6e9455593192a6d869f7ed.info.i
+data/Library/ShaderCache/c/cf55de8b55d6066eeb9acf04283cb607.bin.i
+data/Library/ShaderCache/6/69fb7fb993c6553c588236487eac23dc.bin.i
+data/Library/metadata/69/69b69a5b0e0a85b4aa97a7edc40c37d1.i
+data/Assets/Standard Assets/Utility/WaypointCircuit.cs.meta.i
+data/Library/metadata/06/0626b924325d1c34cafa6b22297f4e4f.info.i
+data/Library/metadata/a9/a94c9a7eb94ceec4a8d67a1890e22e51.info.i
+data/Assets/Standard Assets/2D.meta.i
+data/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.i
+data/Library/metadata/00/00000000000000009000000000000000.i
+data/Library/metadata/d4/d40c191aa46654db7a426d6a1fa3aa30.d
+data/Library/metadata/80/803baf1ea73913f46b25e07d0a79df22.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs.meta.i
+data/Library/metadata/80/803baf1ea73913f46b25e07d0a79df22.info.d
+data/Library/metadata/0f/0f57aeb1b8dce3342bea5c28ac17db24.i
+data/Library/metadata/4a/4aa86d1f8d9212545a4b6065a5269520.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/PunchB.anim.i
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves.meta.i
+data/Library/metadata/85/853611ffb643f00409e4fd1cdf6c23b7.i
+data/ProjectSettings/UnityAdsSettings.asset.i
+data/Assets/Standard Assets/2D/Prefabs/CollisionSlider.prefab.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/SpecialAtack2.anim.meta.i
+data/Library/BuildSettings.asset.i
+data/Assets/Standard Assets/2D/Materials/SpriteLit.mat.i
+data/Library/metadata/ba/ba4eef1c1bb56b444b143beb8d3e30d5.info.i
+data/Assets/Standard Assets/2D/Sprites/BackgroundNavyGridSprite.png.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump01.anim.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves/IdleBike.anim.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump07.anim.i
+data/Library/metadata/7f/7fb2bb1dc9721f841b678fdc20cf3d7a.i
+data/Library/metadata/5d/5d8238cc53530b64fbb7828c3d3bb591.info.i
+data/Library/metadata/9d/9d9d4b4efe5fd10488b84b7f2c026b34.i
+data/Library/metadata/9e/9e1a2edf6149977479db158e4fbf9671.d
+data/Library/metadata/d1/d1e2e7a54dcc8694ab1eca46d072f264.i
+data/Library/metadata/e6/e6569085fafaa4cd1b747c51376fa329.i
+data/Library/metadata/5f/5f88bded061933e41a9ed57ae1d07946.i
+data/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.i
+data/Library/metadata/6e/6e0c47d6f0bab234794fcdf9b91e10ca.i
+data/Assets/Standard Assets/Utility/CurveControlledBob.cs.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Falling.anim.meta.i
+data/Library/metadata/45/4539eb30e895bbb41b5eae6df2dde978.i
+data/Library/metadata/a0/a0a9d5bbc234c934da403f1901affe21.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Run.anim.meta.i
+data/ProjectSettings/Physics2DSettings.asset.i
+data/Assets/Textures/Texture_Background.png.meta.i
+data/Library/metadata/80/801ef4560936ace40a8a07bfc080c53e.info.i
+data/Library/ShaderCache/f/f4f0b408a648323cfc1276f3cc6100b2.bin.i
+data/Library/metadata/bf/bffb643e1be1ea84387be9145bc4e150.info.i
+data/Library/metadata/00/00000000000000002000000000000000.info.i
+data/Library/metadata/00/00000000000000008000000000000000.info.i
+data/Library/metadata/c9/c9b7eaf5a55c12b489b7b87f737d8f9d.info.i
+data/Library/metadata/5d/5d8caf2b5dcc5414c8d319d27f73828e.info.i
+data/Library/metadata/8b/8b92d6d88defac24da740e8d49950ae0.i
+data/Library/ShaderCache/e/e34947141480be6a70ac0eeab68cff62.bin.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1/IdleBike.anim.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Scary.anim.meta.i
+data/Library/metadata/0e/0eb16b4b3e362ef4f97494dd0e686c46.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves/DieBike.anim.meta.i
+data/Library/metadata/45/455b07d99ad5fdb41b647ca5359d3a4b.i
+data/Assets/Standard Assets/Utility/AlphaButtonClickMask.cs.meta.i
+data/Assets/Sprite/Spritesheet_Billy.png.i
+data/Library/metadata/9c/9c4978ff6447f9040b84acc89b0bbdc8.info.i
+data/Library/metadata/27/2750ff91e3c2f664ea1fe55030d46b3c.i
+data/Library/metadata/a2/a20cc1add9b09b648abf27060cf810a5.i
+data/Library/metadata/69/696c0e7b8c74e1442acbf15c2df9e72d.i
+data/Library/metadata/7f/7fb2bb1dc9721f841b678fdc20cf3d7a.info.i
+data/Library/metadata/b4/b43a4ef15621158419a2b639f7a98245.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Idle.anim.i
+data/Library/metadata/be/bee80eec8b641364c86eaa90db9d5ffe.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Falling.anim.i
+data/Assets/Standard Assets/2D/Prefabs/ExtentsRight.prefab.meta.i
+data/Library/metadata/00/00000000000000005100000000000000.info.i
+data/Assets/Standard Assets/Utility/WaypointCircuit.cs.i
+data/Library/metadata/c0/c0a32aa5206b400428f52a44b234c97f.i
+data/Library/metadata/99/9961032f4f02c4f41997c3ea399d2f22.info.i
+data/Library/metadata/99/9961032f4f02c4f41997c3ea399d2f22.i
+data/Library/metadata/d7/d73a8b77a39f57843b3a434596ae2bc7.i
+data/Library/metadata/00/0000000000000000a100000000000000.i
+data/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs.meta.i
+data/Library/metadata/f3/f307b4ae62cf049478d7223f96e59fd8.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump04.anim.meta.i
+data/Library/metadata/0c/0cb77231a430b454fb792ff7ffcc3943.i
+data/Library/ShaderCache/3/3fe78fd97c40c4790689e08a39b231f3.bin.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta.i
+data/Library/AssetServerCacheV3.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Crouch.anim.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.i
+data/Assets/Standard Assets/2D/PhysicsMaterials/BouncyBox.physicsMaterial2D.meta.i
+data/Library/metadata/b6/b656cca21e797074a84563027a508ce1.i
+data/Assets/Sprite/Spritesheet_Items.png.i
+data/Assets/Standard Assets/Utility/FOVKick.cs.meta.i
+data/Library/metadata/c5/c5944ac50c6dc9442844cef438bb36fe.info.i
+data/Library/metadata/39/39c9faed76dfcfd42b62065435e8da37.i
+data/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.i
+data/Library/metadata/00/0000000000000000c000000000000000.i
+data/Library/metadata/42/4251afdc796eb4846afdcc551dcafd27.i
+data/Assets/Standard Assets/2D/Prefabs/CratePink.prefab.i
+data/Assets/Standard Assets/Utility/AutoMobileShaderSwitch.cs.meta.i
+data/Assets/Standard Assets/2D/Sprites.meta.i
+data/Assets/Standard Assets/2D/Scripts/Restarter.cs.meta.i
+data/Library/metadata/00/0000000000000000a100000000000000.info.i
+data/Library/metadata/9d/9d7c6e4896067aa4fa512a00f692ac1c.info.i
+data/Assets/Sprite/Spritesheet_Billy.png.meta.i
+data/Library/metadata/57/57d32a2cbb34f6044ad56d88521ecde4.i
+data/Library/metadata/57/57d32a2cbb34f6044ad56d88521ecde4.info.i
+data/Library/metadata/00/0000000000000000b000000000000000.info.i
+data/Library/metadata/a3/a3983c59ebf804b4abba687bd7c9e92f.info.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png.d
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump11.anim.meta.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png.i
+data/Assets/Sprite/Spritesheet_Floor.png.meta.i
+data/Library/metadata/ea/ea8de2bffae42f247bd2471ef62a3511.info.i
+data/Assets/Standard Assets/2D/Animator/2dCharacterAnimatorBilly.controller.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Run.anim.i
+data/Library/metadata/f5/f588d850485d0ae479d73cf3bd0b7b00.info.i
+data/Library/metadata/27/2750ff91e3c2f664ea1fe55030d46b3c.resource.d
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump10.anim.i
+data/Library/metadata/85/85bf3be603548374ca46f521a3aa7fda.info.i
+data/Library/metadata/37/37fac21d1f093d344816942d1abce94e.i
+data/Library/metadata/25/252242858ce18134e87acc9671c308b3.i
+data/Library/metadata/8b/8be6341e1ce3f4cec9902bc34f72d20a.i
+data/Library/metadata/8b/8be6341e1ce3f4cec9902bc34f72d20a.info.i
+data/Library/LastSceneManagerSetup.txt.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump06.anim.meta.i
+data/Library/metadata/00/00000000000000007100000000000000.info.i
+data/Library/metadata/a8/a8360d6cbb0b24d30ad943985708a039.info.i
+data/Library/metadata/5d/5d3fb8e05edcf4b41aef584ca1b0d06f.i
+data/Library/metadata/82/826a52a62c43f7140969f181a6113dbc.info.d
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta.i
+data/Library/metadata/27/27dbec7630294d64c9ab91261656cbd4.info.i
+data/Library/metadata/73/7305e9c6865e8ed45bf0283a0ff9fc9d.i
+data/Library/metadata/9d/9d9d4b4efe5fd10488b84b7f2c026b34.info.i
+data/Library/metadata/16/1652bfd5c3c19c141a6bb6e5b7069709.info.i
+data/Library/metadata/0c/0ce4cbc241d3aca4da0b94a0ffa0d51f.info.i
+data/Library/metadata/ac/acf5e119c54034bd8bfbd5f21cc246db.info.i
+data/Library/ShaderCache/5/52c6f22057c708fc705fe57fe53f365d.bin.i
+data/Library/metadata/b2/b241b59d6a89aff4fbf0bce77e644761.info.i
+data/Assets/Standard Assets/Utility.meta.i
+data/Library/metadata/1c/1c4aa503092e12040ac412fec79b5d67.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.i
+data/Assets/Standard Assets/2D/Prefabs/Platform36x01.prefab.meta.i
+data/Assets/Standard Assets/Utility/FollowTarget.cs.meta.i
+data/Library/metadata/d1/d139426e5e4404f31a1a8d663355003e.i
+data/Library/metadata/32/32816ad7c74776443ba59cdba9eb0cef.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/SpecialAtack.anim.i
+data/Library/metadata/ac/acf5e119c54034bd8bfbd5f21cc246db.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Falling.anim.meta.i
+data/Assets/Standard Assets/2D/PhysicsMaterials/Slippery.physicsMaterial2D.i
+data/Library/metadata/c1/c1f21e20e7ec10c4ebaa09c81cb1f179.info.i
+data/Library/metadata/f4/f45a39483cf4f914a816af821c9262bb.info.i
+data/Library/metadata/f8/f89aed02206e1b644b466595eb1d47fa.i
+data/Library/metadata/57/57f38812aafe77142bf0c4ec50ff9c3a.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump07.anim.i
+data/Library/metadata/b7/b74a67a345b8adf4abb7b317a7efdce7.i
+data/Library/metadata/d9/d90a8faf6fb9540b084ef2825cc3a5dc.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs.i
+data/Assets/Standard Assets/2D/Sprites/BackgroundNavyGridSprite.png.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Walk.anim.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Run.anim.i
+data/Library/metadata/58/58650e15a2607e44daa0f150e0061d89.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump04.anim.meta.i
+data/Library/metadata/5d/5d8caf2b5dcc5414c8d319d27f73828e.i
+data/Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs.meta.i
+data/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/UpperPunch.anim.i
+data/Assets/Standard Assets/Utility/Prefabs/FramerateCounter.prefab.i
+data/Assets/Standard Assets/2D/Scripts/CameraFollow.cs.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs.i
+data/Library/ShaderCache/1/1458f6f2dbd6b36b4c3ffc375631d381.bin.i
+data/Library/metadata/80/803baf1ea73913f46b25e07d0a79df22.i
+data/Library/ShaderCache/e/e9eb8980d44e6a8352b2272376158b61.bin.i
+data/Library/metadata/33/3369231b1ed7ad34e84d9240a571db81.info.i
+data/Library/metadata/c1/c1bbfafbde15c854681023b9e01e12dd.info.i
+data/Library/LibraryFormatVersion.txt.i
+data/Library/metadata/45/455b07d99ad5fdb41b647ca5359d3a4b.info.i
+data/Assets/Standard Assets/2D/Scripts.meta.i
+data/Assets/Music/Battletoads  Double Dragon (Stage 2 Remix) (2).mp3.i
+data/Library/metadata/d9/d90a8faf6fb9540b084ef2825cc3a5dc.info.i
+data/Library/metadata/1c/1caf40fc8bebb6b43b2550c05ca791d6.i
+data/Library/metadata/00/00000000000000003000000000000000.i
+data/Library/metadata/5b/5b1a64ea234fb2343b8d0686c51280de.info.i
+data/Assets/Standard Assets/Utility/FPSCounter.cs.i
+data/Assets/Music/Battletoads  Double Dragon (Stage 2 Remix) (2).mp3.d
+data/Library/metadata/83/834ffee7dd4aaad43a009afff5ce5fee.i
+data/Library/metadata/00/0000000000000000b000000000000000.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta.i
+data/Library/metadata/a2/a20cc1add9b09b648abf27060cf810a5.info.i
+data/Library/ShaderCache/2/2de51c449c506624b02fe205dfad3614.bin.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Punch.anim.i
+data/Library/metadata/00/00000000000000006100000000000000.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Die.anim.meta.i
+data/ProjectSettings/EditorBuildSettings.asset.i
+data/Assets/Standard Assets/2D/Sprites/CratePinkGridSprite.png.i
+data/Library/metadata/cb/cbbabe9e292f5604897926494bb38fef.info.i
+data/Library/metadata/60/6045a93fb05b9c74884821030da2c46c.i
+data/Library/metadata/9c/9c0578910bbe00d43919a92c7b9893fe.i
+data/Library/metadata/95/9529ecc3d479da5499993355e6c2cb4f.info.i
+data/Library/metadata/3f/3f568a29db2b4804d9edc23f615b697f.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta.i
+data/Library/metadata/27/272ba847f100d4251bb8260575189042.i
+data/Library/metadata/3d/3d8675433a508ec47b8f895201eacf20.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab.meta.i
+data/Library/metadata/d1/d139426e5e4404f31a1a8d663355003e.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs.meta.i
+data/ProjectSettings/EditorSettings.asset.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump03.anim.i
+data/Assets/Standard Assets/Utility/DragRigidbody.cs.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.i
+data/Library/metadata/03/03bedf7094c479549beb9434f2033c2e.i
+data/Library/metadata/87/87defe4543f47ef41b345453900fe949.info.i
+data/Library/ShaderCache/e/ec469ca656d785e256753ea8e3abea51.bin.i
+data/Library/metadata/80/803baf1ea73913f46b25e07d0a79df22.d
+data/Library/metadata/47/47d3e747b2e87de4c8358aaa436365ea.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Hit.anim.i
+data/Library/metadata/3c/3c0ad459c1534645b5d603b7cc258f97.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump02.anim.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab.i
+data/Library/metadata/aa/aa38a7c4c020dee4cae8c52dc85626e4.info.i
+data/Assets/Standard Assets/Utility/AutoMobileShaderSwitch.cs.i
+data/Library/BuildPlayer.prefs.i
+data/Library/metadata/9b/9b886447cba80f74e820adb3c9e70c76.i
+data/Library/metadata/00/00000000000000003000000000000000.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs.meta.i
+data/Library/metadata/24/246cc59c7a84ea44f87f6b70acfe30c5.i
+data/Library/metadata/9a/9ab98b66288df7b4fa182075f2f12bd6.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab.meta.i
+data/Library/AssetImportState.i
+data/Library/metadata/bf/bffb643e1be1ea84387be9145bc4e150.i
+data/Library/metadata/64/643c971818f68d3439e84b5d8bdafe07.i
+data/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.i
+data/Library/metadata/e0/e053b0a94752146e79954ce4df1b5565.i
+data/Library/metadata/18/1829b8c50e4108f4b936e37f91181337.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.i
+data/Library/metadata/00/00000000000000009000000000000000.info.i
+data/Library/metadata/3b/3b94b9b6f052c7a4cbf29486ce921c24.i
+data/Library/metadata/00/00000000000000008100000000000000.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump05.anim.i
+data/Library/metadata/6d/6db3d2abf3923fa4bac474efc7a1b18e.info.i
+data/Library/metadata/c0/c0a32aa5206b400428f52a44b234c97f.info.i
+data/Library/metadata/93/937a0752a6837e041b0c1ff0d2cf663c.i
+data/Assets/Standard Assets/2D/Prefabs.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump09.anim.meta.i
+data/Library/metadata/c4/c4e551306c22ebe4da48e749c9a29f65.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Hit.anim.meta.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Walk.anim.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta.i
+data/Assets/Sprite.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump06.anim.i
+data/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump10.anim.meta.i
+data/Library/metadata/c2/c26d736b011afbd49bc54e1c5c982fec.info.i
+data/Assets/Sprite/SNES - Battletoads and Double Dragon - Stage 2.png.meta.i
+data/Library/metadata/9d/9d7c6e4896067aa4fa512a00f692ac1c.i
+data/Assets/Standard Assets/2D/Animator/2dCharacterAnimatorBilly.controller.i
+data/Library/metadata/24/246cc59c7a84ea44f87f6b70acfe30c5.info.i
+data/.hgignore.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump09.anim.i
+data/Library/metadata/b4/b43a4ef15621158419a2b639f7a98245.i
+data/Library/metadata/0c/0ce4cbc241d3aca4da0b94a0ffa0d51f.i
+data/Library/metadata/1d/1d0c184845252df44a655359de388cb8.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png.d
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Die.anim.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1.meta.i
+data/Assets/Standard Assets/2D/Prefabs/Platform16x01.prefab.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs.i
+data/Library/metadata/82/827c9cd4a3943534f909ac6473e17288.info.i
+data/Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs.meta.i
+data/Library/metadata/8f/8fb98a6035269e64a998f9b56828fc4f.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Hit.anim.i
+data/Library/metadata/8f/8fb98a6035269e64a998f9b56828fc4f.info.d
+data/Library/metadata/00/0000000000000000c000000000000000.info.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png.d
+data/Assets/Standard Assets/2D/Prefabs/ExtentsRight.prefab.i
+data/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.i
+data/Library/metadata/00/00c3c865782347f41b6358d9fba14b48.info.i
+data/Assets/Standard Assets/2D/Materials/SpriteLit.mat.meta.i
+data/ProjectSettings/NavMeshAreas.asset.i
+data/Library/metadata/17/174090ae7f9eff84abe76f0ff062efac.i
+data/Library/metadata/58/58650e15a2607e44daa0f150e0061d89.i
+data/Library/metadata/4d/4de8366817f8f1245bed4520bbc0c1d8.i
+data/Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Punch.anim.i
+data/ProjectSettings/InputManager.asset.i
+data/Library/ShaderCache/5/58756e6566804f935178a53a3cda76b2.bin.i
+data/Library/metadata/33/3369231b1ed7ad34e84d9240a571db81.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Scary.anim.meta.i
+data/Library/metadata/3a/3a7cedf246fca744f90cbdc9dbe41166.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump09.anim.meta.i
+data/Assets/Scenes.meta.i
+data/Library/metadata/fc/fc67a9002ed4034419f91d0d85bd6b24.i
+data/Library/metadata/12/12ef7cbdfe0e143fa858a324456c8979.info.i
+data/Library/metadata/f3/f307b4ae62cf049478d7223f96e59fd8.i
+data/Assets/Standard Assets/2D/Prefabs/CharacterRobotBoy.prefab.i
+data/Library/ShaderCache/a/ae82f9fda3b409d0168768db6b7bde65.bin.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs.meta.i
+data/Assets/Standard Assets/2D/Animator.meta.i
+data/Library/metadata/2a/2a71c12ae885e4f80b5144a4652bbeb4.i
+data/Library/metadata/21/2169821f0567671499a5c10104c69c24.info.i
+data/Library/metadata/4d/4df4e192b18fa1c41bb4a2ce93c84da1.i
+data/Library/metadata/18/18fcd494ab71841d695135246693eb3a.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.i
+data/Library/metadata/00/00000000000000005000000000000000.i
+data/Library/metadata/00/00000000000000004000000000000000.i
+data/Library/metadata/ba/ba60bcc11179c5e47adb0aa0e7a9f419.info.i
+data/Library/metadata/00/00000000000000006000000000000000.i
+data/Library/metadata/7c/7cbab2be89b54486bbd23a6fe637d30e.i
+data/Library/metadata/7c/7cbab2be89b54486bbd23a6fe637d30e.info.i
+data/Library/metadata/07/078bf204f06fcac44978d49dd094b43e.i
+data/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info.i
+data/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs.i
+data/Library/metadata/97/971f44ba24a74294294daed00507d80e.i
+data/Library/metadata/b2/b241b59d6a89aff4fbf0bce77e644761.i
+data/Library/metadata/6a/6ac1ce5a5adfd9f46adbf5b6f752a47c.info.i
+data/Library/metadata/7d/7d935208159ddfa4ca57a95ab49d1a73.i
+data/Library/metadata/1c/1c4aa503092e12040ac412fec79b5d67.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta.i
+data/Library/metadata/00/00c3c865782347f41b6358d9fba14b48.i
+data/Library/metadata/d8/d8134e4dd9a11c6468abfb1683315eab.info.i
+data/Library/metadata/c8/c8634e062924929664361c08745211fb.i
+data/Assets/Standard Assets/2D/Prefabs/Platform04x01.prefab.i
+data/Assets/Standard Assets/Utility/TimedObjectDestructor.cs.meta.i
+data/Library/metadata/81/81154777d5417884981849c5243f6c01.info.i
+data/Library/metadata/81/81154777d5417884981849c5243f6c01.i
+data/Library/ShaderCache/9/90c4640ec622119b071939e8227285f8.bin.i
+data/ProjectSettings/GraphicsSettings.asset.i
+data/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs.meta.i
+data/Assets/Standard Assets/2D/Prefabs/Platform12x01.prefab.i
+data/Library/metadata/27/2750ff91e3c2f664ea1fe55030d46b3c.info.i
+data/Library/metadata/49/492f54f4accf00440828ffcb9e4fcc19.info.i
+data/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves/DieBike.anim.i
+data/Library/metadata/4d/4db017495c69e8140a56a0e2b669e3f8.info.i
+data/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs.i
+data/Library/metadata/a0/a038b284634e29f4aaf058814aa61a6f.info.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta.i
+data/Library/metadata/d4/d40c191aa46654db7a426d6a1fa3aa30.info.d
+data/Library/metadata/eb/eb8eae7fe5e5c75419324504b694092d.info.i
+data/Assets/Standard Assets/Utility/WaypointProgressTracker.cs.meta.i
+data/Library/metadata/54/5485e2f56028a3c4cb54f5caa167377e.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1/IdleBike.anim.i
+data/Assets/Standard Assets/Utility/TimedObjectActivator.cs.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump03.anim.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab.meta.i
+data/Library/metadata/db/db7667203062c644ea1877077e30ebd6.i
+data/Assets/Standard Assets/Utility/Prefabs/FramerateCounter.prefab.meta.i
+data/Library/metadata/0b/0b7c6de059fcdfc4baafb3ca4cdcb56b.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump05.anim.meta.i
+data/Library/CurrentLayout.dwlt.i
+data/Library/metadata/87/87a2357765801c34292d6718d8b4d770.i
+data/Library/metadata/4a/4aa86d1f8d9212545a4b6065a5269520.d
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.i
+data/Library/metadata/4a/4aa86d1f8d9212545a4b6065a5269520.i
+data/Library/metadata/eb/eb5f6e2757c821940b69cf1456f7865a.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump05.anim.meta.i
+data/Library/metadata/8f/8fb98a6035269e64a998f9b56828fc4f.i
+data/Library/metadata/54/5485e2f56028a3c4cb54f5caa167377e.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Die.anim.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta.i
+data/Library/metadata/c9/c9b7eaf5a55c12b489b7b87f737d8f9d.i
+data/Assets/Editor/CrossPlatformInput.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab.meta.i
+data/Assets/Standard Assets/2D/Animator/2dCharacterAnimatorFritz.controller.i
+data/Library/metadata/6d/6db3d2abf3923fa4bac474efc7a1b18e.i
+data/Library/metadata/db/db7667203062c644ea1877077e30ebd6.info.i
+data/Library/metadata/8f/8fb98a6035269e64a998f9b56828fc4f.d
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump08.anim.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump03.anim.meta.i
+data/Library/metadata/36/3626fe8e008014f6bbd19bb72937b311.info.i
+data/Library/metadata/71/71398ce7fbc3a5b4fa50b50bd54317a7.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Run.anim.meta.i
+data/Library/metadata/5f/5fdf7f10ca6d22249a03b5e10a0e83e9.i
+data/Library/metadata/45/4539eb30e895bbb41b5eae6df2dde978.info.i
+data/Library/metadata/6e/6e0c47d6f0bab234794fcdf9b91e10ca.info.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump04.anim.i
+data/Library/metadata/5f/5fdf7f10ca6d22249a03b5e10a0e83e9.info.i
+data/Library/ScriptAssemblies/BuiltinAssemblies.stamp.i
+data/Library/metadata/d0/d08f91df3bd212f429df17f53ce2f364.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Scary.anim.i
+data/Assets/Standard Assets/Utility/FollowTarget.cs.i
+data/Library/metadata/ca/ca28903b6d2636b47b24c2b6bfe62386.i
+data/Assets/Standard Assets/2D/PhysicsMaterials/Sticky.physicsMaterial2D.i
+data/Library/metadata/00/00000000000000005100000000000000.i
+data/Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab.i
+data/ProjectSettings/QualitySettings.asset.i
+data/Assets/Standard Assets/2D/Prefabs/Platform08x01.prefab.i
+data/Library/metadata/69/696c0e7b8c74e1442acbf15c2df9e72d.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Crouch.anim.i
+data/ProjectSettings/TagManager.asset.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1/JumpBike.anim.meta.i
+data/Library/metadata/a9/a94c9a7eb94ceec4a8d67a1890e22e51.i
+data/Assets/Standard Assets/Utility/Prefabs.meta.i
+data/Assets/Sprite/Spritesheet_Zitz.png.meta.i
+data/Library/metadata/9f/9fe9f3762bf11e649b6bf2a8a1940c52.i
+data/Library/metadata/3b/3b94b9b6f052c7a4cbf29486ce921c24.info.i
+data/Assets/Standard Assets/Utility/TimedObjectDestructor.cs.i
+data/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.i
+data/Library/metadata/21/2169821f0567671499a5c10104c69c24.i
+data/Library/metadata/0c/0c6271a290ef75b4c97d58746c86c5b8.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Walk.anim.i
+data/ProjectSettings/NetworkManager.asset.i
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves/KickBike.anim.i
+data/Library/metadata/d0/d024aaa09f4080d448d16f62d1a97b0b.i
+data/Assets/Scenes/Redroom.unity.i
+data/Assets/Standard Assets/2D/Animations/Fritz.meta.i
+data/Assets/Standard Assets/Utility/CameraRefocus.cs.i
+data/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab.meta.i
+data/Library/metadata/06/065bfa6399b5fde4489512180c638d60.i
+data/Library/metadata/85/853611ffb643f00409e4fd1cdf6c23b7.info.i
+data/Library/metadata/dc/dc23f232745a5d345b0b76c9272e647d.i
+data/Library/metadata/a9/a9dfad760b6e9455593192a6d869f7ed.i
+data/Library/metadata/6b/6b6ff2b3d33ee95439cbe249fc80211a.d
+data/Library/metadata/47/47d3e747b2e87de4c8358aaa436365ea.i
+data/Library/metadata/00/0000000000000000a000000000000000.i
+data/Library/metadata/6b/6b6ff2b3d33ee95439cbe249fc80211a.i
+data/Library/metadata/c1/c1bbfafbde15c854681023b9e01e12dd.i
+data/Library/metadata/49/49b611e658efbf443b686a4036f74fe3.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump01.anim.meta.i
+data/Library/metadata/0c/0cb77231a430b454fb792ff7ffcc3943.info.i
+data/Library/metadata/22/22bbf57ec543cee42a5aa0ec2dd9e457.i
+data/Assets/Sprite/Spritesheet_Floor.png.i
+data/Library/metadata/3f/3f7f63dcc0c4e844fbf5a22bf0fc1deb.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.i
+data/Library/metadata/3f/3f66eeca8ac36914e9ec9a716a9d9f73.info.i
+data/Library/metadata/c8/c8634e062924929664361c08745211fb.info.i
+data/Library/metadata/c5/c5cb22d331ef7d64796f917c6a455a32.i
+data/Assets/Standard Assets/2D/Sprites/PlatformWhiteSprite.png.meta.i
+data/Library/metadata/fe/feda0c18015b3284cabbc0da85254f9a.info.i
+data/Library/metadata/e2/e21ceef391a4b284a9ac47a7961c0c1a.i
+data/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info.i
+data/Library/metadata/bc/bce91bfe9ac71be44a3f76eb03dff596.i
+data/Assets/Standard Assets/Utility/ObjectResetter.cs.meta.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png.meta.i
+data/Library/metadata/8b/8b92d6d88defac24da740e8d49950ae0.info.i
+data/Library/metadata/71/710bc43f80d178548bd226c252c8e65b.i
+data/ProjectSettings/DynamicsManager.asset.i
+data/Library/ShaderCache/b/b85637e44bcb00879b873ed361b32cf3.bin.i
+data/Assets/Standard Assets/2D/Prefabs/PlatformRamp.prefab.i
+data/Library/metadata/fb/fb2ab417c38f9c9468b8361a3c41bc45.i
+data/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.i
+data/Library/metadata/0f/0f57aeb1b8dce3342bea5c28ac17db24.info.i
+data/Assembly-CSharp-Editor.csproj.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png.meta.i
+data/Library/metadata/18/1835e4537efbdd94b93c2dd136860f1d.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump07.anim.meta.i
+data/Library/metadata/ca/cadd54e4832aeef4b9359f44cbe335cd.info.i
+data/Library/metadata/85/852e56802eb941638acbb491814497b0.info.i
+data/Library/metadata/a3/a3b997593a4f12c4c991490593f3b513.info.i
+data/Assets/Standard Assets/Utility/LerpControlledBob.cs.i
+data/Library/metadata/8e/8ecd0934154ea9c478812b110663a56c.i
+data/Library/metadata/d4/d40c191aa46654db7a426d6a1fa3aa30.i
+data/Library/metadata/ec/ecc45c9fc8058c744b5210a98850330e.info.i
+data/Library/metadata/00/00000000000000008000000000000000.i
+data/Library/metadata/5b/5b1a64ea234fb2343b8d0686c51280de.i
+data/Library/metadata/c0/c0a7d070d2b4aae47afae682910c04cd.info.i
+data/Assets/Standard Assets/Utility/ObjectResetter.cs.i
+data/Library/metadata/23/2336188e92e768148a1c5640bc521c4f.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.i
+data/Library/metadata/5f/5fc43f0c4b413534ba12c51c0e5e5f6f.i
+data/Assets/Standard Assets/2D/PhysicsMaterials/BouncyBox.physicsMaterial2D.i
+data/Library/ShaderCache/d/d65793d2124bcb0186ea87e51c41a93f.bin.i
+data/Library/metadata/3f/3f66eeca8ac36914e9ec9a716a9d9f73.i
+data/ProjectSettings/AudioManager.asset.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png.d
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump08.anim.i
+data/Library/ProjectSettings.asset.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/SpecialAtack2.anim.meta.i
+data/Library/metadata/a3/a3b997593a4f12c4c991490593f3b513.i
+data/Assets/Standard Assets/2D/Prefabs/CratePink.prefab.meta.i
+data/Library/metadata/ef/efd99646c05e30b44ba2a6db6f1ccef2.info.i
+data/Library/metadata/e6/e6569085fafaa4cd1b747c51376fa329.info.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Jump02.anim.meta.i
+data/Library/metadata/a0/a0a9d5bbc234c934da403f1901affe21.info.i
+data/Library/metadata/5f/5f88bded061933e41a9ed57ae1d07946.info.i
+data/Library/metadata/cb/cbbabe9e292f5604897926494bb38fef.i
+data/Library/metadata/eb/eb5f6e2757c821940b69cf1456f7865a.info.i
+data/Library/MonoManager.asset.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Rider Moves 1/DieBike.anim.meta.i
+data/Library/expandedItems.i
+data/Assets/Standard Assets/2D/Prefabs/CharacterRobotBoy.prefab.meta.i
+data/Library/metadata/c3/c3d7b34a3bb2d4e4b926e7e729d3d410.i
+data/Library/metadata/7d/7d935208159ddfa4ca57a95ab49d1a73.info.i
+data/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Falling.anim.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump03.anim.meta.i
+data/Library/metadata/fc/fc67a9002ed4034419f91d0d85bd6b24.info.i
+data/Library/metadata/00/00000000000000007100000000000000.i
+data/Library/metadata/d4/d4d91c39ad2a0564998931ffe8582ffe.info.i
+data/ProjectSettings/ClusterInputManager.asset.i
+data/Assets/Standard Assets/Utility/DynamicShadowSettings.cs.i
+data/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.i
+data/Library/metadata/10/105e9f800237bf347856325e8d7ae493.i
+data/Assets/Standard Assets.meta.i
+data/Library/metadata/29/29014cd42b6d273408e0ceefd336c0b3.i
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/PunchB.anim.meta.i
+data/Library/metadata/be/bee80eec8b641364c86eaa90db9d5ffe.info.i
+data/Library/metadata/8e/8ec644fcefcbc754ea044194f1a7d178.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png.d
+data/Assets/Standard Assets/2D/Animations/Billy/Beat'em up moves/Die.anim.i
+data/Library/metadata/f7/f76806479d916a64aa03f8e3eba7912f.info.i
+data/Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png.i
+data/Library/metadata/a8/a8360d6cbb0b24d30ad943985708a039.i
+data/Library/metadata/ba/ba60bcc11179c5e47adb0aa0e7a9f419.info.d
+data/Assets/Standard Assets/Utility/ActivateTrigger.cs.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs.i
+data/Library/metadata/00/00000000000000004100000000000000.info.i
+data/Library/metadata/32/32816ad7c74776443ba59cdba9eb0cef.info.i
+data/Assets/Standard Assets/Utility/EventSystemChecker.cs.i
+data/Library/metadata/a0/a038b284634e29f4aaf058814aa61a6f.i
+data/Library/metadata/18/18fcd494ab71841d695135246693eb3a.info.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump09.anim.i
+data/Library/metadata/4d/4df4e192b18fa1c41bb4a2ce93c84da1.info.i
+data/Assets/Standard Assets/Utility/SimpleMouseRotator.cs.i
+data/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info.i
+data/Library/AssetVersioning.db.i
+data/Library/metadata/00/00000000000000004100000000000000.i
+data/Library/metadata/fe/feda0c18015b3284cabbc0da85254f9a.info.d
+data/Assets/Standard Assets/2D/Animations/Billy/Rider Moves/JumpBike.anim.meta.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/Jump01.anim.i
+data/Assets/Standard Assets/2D/Animations/Fritz/Beat'em up moves 1/PunchB.anim.meta.i
+data/Library/metadata/00/00000000000000001000000000000000.i
+data/Library/metadata/d0/d024aaa09f4080d448d16f62d1a97b0b.info.i
+data/Library/metadata/3f/3f568a29db2b4804d9edc23f615b697f.info.i
+data/Library/metadata/fc/fc67a9002ed4034419f91d0d85bd6b24.info.d
+data/Library/metadata/97/971f44ba24a74294294daed00507d80e.info.i
+data/Library/metadata/e2/e21ceef391a4b284a9ac47a7961c0c1a.info.i
+data/Library/metadata/aa/aa38a7c4c020dee4cae8c52dc85626e4.i
+data/Assets/Textures.meta.i
+data/Assets/Standard Assets/2D/Sprites/BackgroundGreyGridSprite.png.i
+data/Library/metadata/85/852e56802eb941638acbb491814497b0.i
+data/ProjectSettings/ProjectSettings.asset.i
+data/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs.i
+data/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs.i

@@ -1,0 +1,2803 @@
+fileFormatVersion: 2
+guid: 6b6ff2b3d33ee95439cbe249fc80211a
+timeCreated: 1476791586
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spritesheet_Billy_0
+    21300002: Spritesheet_Billy_1
+    21300004: Spritesheet_Billy_2
+    21300006: Spritesheet_Billy_3
+    21300008: Spritesheet_Billy_4
+    21300010: Spritesheet_Billy_5
+    21300012: Spritesheet_Billy_6
+    21300014: Spritesheet_Billy_7
+    21300016: Spritesheet_Billy_8
+    21300018: Spritesheet_Billy_9
+    21300020: Spritesheet_Billy_10
+    21300022: Spritesheet_Billy_11
+    21300024: Spritesheet_Billy_12
+    21300026: Spritesheet_Billy_13
+    21300028: Spritesheet_Billy_14
+    21300030: Spritesheet_Billy_15
+    21300032: Spritesheet_Billy_16
+    21300034: Spritesheet_Billy_17
+    21300036: Spritesheet_Billy_18
+    21300038: Spritesheet_Billy_19
+    21300040: Spritesheet_Billy_20
+    21300042: Spritesheet_Billy_21
+    21300044: Spritesheet_Billy_22
+    21300046: Spritesheet_Billy_23
+    21300048: Spritesheet_Billy_24
+    21300050: Spritesheet_Billy_25
+    21300052: Spritesheet_Billy_26
+    21300054: Spritesheet_Billy_27
+    21300056: Spritesheet_Billy_28
+    21300058: Spritesheet_Billy_29
+    21300060: Spritesheet_Billy_30
+    21300062: Spritesheet_Billy_31
+    21300064: Spritesheet_Billy_32
+    21300066: Spritesheet_Billy_33
+    21300068: Spritesheet_Billy_34
+    21300070: Spritesheet_Billy_35
+    21300072: Spritesheet_Billy_36
+    21300074: Spritesheet_Billy_37
+    21300076: Spritesheet_Billy_38
+    21300078: Spritesheet_Billy_39
+    21300080: Spritesheet_Billy_40
+    21300082: Spritesheet_Billy_41
+    21300084: Spritesheet_Billy_42
+    21300086: Spritesheet_Billy_43
+    21300088: Spritesheet_Billy_44
+    21300090: Spritesheet_Billy_45
+    21300092: Spritesheet_Billy_46
+    21300094: Spritesheet_Billy_47
+    21300096: Spritesheet_Billy_48
+    21300098: Spritesheet_Billy_49
+    21300100: Spritesheet_Billy_50
+    21300102: Spritesheet_Billy_51
+    21300104: Spritesheet_Billy_52
+    21300106: Spritesheet_Billy_53
+    21300108: Spritesheet_Billy_54
+    21300110: Spritesheet_Billy_55
+    21300112: Spritesheet_Billy_56
+    21300114: Spritesheet_Billy_57
+    21300116: Spritesheet_Billy_58
+    21300118: Spritesheet_Billy_59
+    21300120: Spritesheet_Billy_60
+    21300122: Spritesheet_Billy_61
+    21300124: Spritesheet_Billy_62
+    21300126: Spritesheet_Billy_63
+    21300128: Spritesheet_Billy_64
+    21300130: Spritesheet_Billy_65
+    21300132: Spritesheet_Billy_66
+    21300134: Spritesheet_Billy_67
+    21300136: Spritesheet_Billy_68
+    21300138: Spritesheet_Billy_69
+    21300140: Spritesheet_Billy_70
+    21300142: Spritesheet_Billy_71
+    21300144: Spritesheet_Billy_72
+    21300146: Spritesheet_Billy_73
+    21300148: Spritesheet_Billy_74
+    21300150: Spritesheet_Billy_75
+    21300152: Spritesheet_Billy_76
+    21300154: Spritesheet_Billy_77
+    21300156: Spritesheet_Billy_78
+    21300158: Spritesheet_Billy_79
+    21300160: Spritesheet_Billy_80
+    21300162: Spritesheet_Billy_81
+    21300164: Spritesheet_Billy_82
+    21300166: Spritesheet_Billy_83
+    21300168: Spritesheet_Billy_84
+    21300170: Spritesheet_Billy_85
+    21300172: Spritesheet_Billy_86
+    21300174: Spritesheet_Billy_87
+    21300176: Spritesheet_Billy_88
+    21300178: Spritesheet_Billy_89
+    21300180: Spritesheet_Billy_90
+    21300182: Spritesheet_Billy_91
+    21300184: Spritesheet_Billy_92
+    21300186: Spritesheet_Billy_93
+    21300188: Spritesheet_Billy_94
+    21300190: Spritesheet_Billy_95
+    21300192: Spritesheet_Billy_96
+    21300194: Spritesheet_Billy_97
+    21300196: Spritesheet_Billy_98
+    21300198: Spritesheet_Billy_99
+    21300200: Spritesheet_Billy_100
+    21300202: Spritesheet_Billy_101
+    21300204: Spritesheet_Billy_102
+    21300206: Spritesheet_Billy_103
+    21300208: Spritesheet_Billy_104
+    21300210: Spritesheet_Billy_105
+    21300212: Spritesheet_Billy_106
+    21300214: Spritesheet_Billy_107
+    21300216: Spritesheet_Billy_108
+    21300218: Spritesheet_Billy_109
+    21300220: Spritesheet_Billy_110
+    21300222: Spritesheet_Billy_111
+    21300224: Spritesheet_Billy_112
+    21300226: Spritesheet_Billy_113
+    21300228: Spritesheet_Billy_114
+    21300230: Spritesheet_Billy_115
+    21300232: Spritesheet_Billy_116
+    21300234: Spritesheet_Billy_117
+    21300236: Spritesheet_Billy_118
+    21300238: Spritesheet_Billy_119
+    21300240: Spritesheet_Billy_120
+    21300242: Spritesheet_Billy_121
+    21300244: Spritesheet_Billy_122
+    21300246: Spritesheet_Billy_123
+    21300248: Spritesheet_Billy_124
+    21300250: Spritesheet_Billy_125
+    21300252: Spritesheet_Billy_126
+    21300254: Spritesheet_Billy_127
+    21300256: Spritesheet_Billy_128
+    21300258: Spritesheet_Billy_129
+    21300260: Spritesheet_Billy_130
+    21300262: Spritesheet_Billy_131
+    21300264: Spritesheet_Billy_132
+    21300266: Spritesheet_Billy_133
+    21300268: Spritesheet_Billy_134
+    21300270: Spritesheet_Billy_135
+    21300272: Spritesheet_Billy_136
+    21300274: Spritesheet_Billy_137
+    21300276: Spritesheet_Billy_138
+    21300278: Spritesheet_Billy_139
+    21300280: Spritesheet_Billy_140
+    21300282: Spritesheet_Billy_141
+    21300284: Spritesheet_Billy_142
+    21300286: Spritesheet_Billy_143
+    21300288: Spritesheet_Billy_144
+    21300290: Spritesheet_Billy_145
+    21300292: Spritesheet_Billy_146
+    21300294: Spritesheet_Billy_147
+    21300296: Spritesheet_Billy_148
+    21300298: Spritesheet_Billy_149
+    21300300: Spritesheet_Billy_150
+    21300302: Spritesheet_Billy_151
+    21300304: Spritesheet_Billy_152
+    21300306: Spritesheet_Billy_153
+    21300308: Spritesheet_Billy_154
+    21300310: Spritesheet_Billy_155
+    21300312: Spritesheet_Billy_156
+    21300314: Spritesheet_Billy_157
+    21300316: Spritesheet_Billy_158
+    21300318: Spritesheet_Billy_159
+    21300320: Spritesheet_Billy_160
+    21300322: Spritesheet_Billy_161
+    21300324: Spritesheet_Billy_162
+    21300326: Spritesheet_Billy_163
+    21300328: Spritesheet_Billy_164
+    21300330: Spritesheet_Billy_165
+    21300332: Spritesheet_Billy_166
+    21300334: Spritesheet_Billy_167
+    21300336: Spritesheet_Billy_168
+    21300338: Spritesheet_Billy_169
+    21300340: Spritesheet_Billy_170
+    21300342: Spritesheet_Billy_171
+    21300344: Spritesheet_Billy_172
+    21300346: Spritesheet_Billy_173
+    21300348: Spritesheet_Billy_174
+    21300350: Spritesheet_Billy_175
+    21300352: Spritesheet_Billy_176
+    21300354: Spritesheet_Billy_177
+    21300356: Spritesheet_Billy_178
+    21300358: Spritesheet_Billy_179
+    21300360: Spritesheet_Billy_180
+    21300362: Spritesheet_Billy_181
+    21300364: Spritesheet_Billy_182
+    21300366: Spritesheet_Billy_183
+    21300368: Spritesheet_Billy_184
+    21300370: Spritesheet_Billy_185
+    21300372: Spritesheet_Billy_186
+    21300374: Spritesheet_Billy_187
+    21300376: Spritesheet_Billy_188
+    21300378: Spritesheet_Billy_189
+    21300380: Spritesheet_Billy_190
+    21300382: Spritesheet_Billy_191
+    21300384: Spritesheet_Billy_192
+    21300386: Spritesheet_Billy_193
+    21300388: Spritesheet_Billy_194
+    21300390: Spritesheet_Billy_195
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Billy_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 821
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 821
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 821
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 821
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 821
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 821
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 823
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 823
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 821
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 819
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 821
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 821
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 826
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 823
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 823
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 826
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 826
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 823
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 826
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_20
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 826
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 826
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_22
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_24
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_25
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 826
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_26
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_27
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 825
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 823
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_29
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 826
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_30
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_32
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 826
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_33
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 826
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_34
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 826
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_35
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 826
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_36
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 810
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_37
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 810
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_38
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 810
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_39
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 810
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_40
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 810
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_41
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 790
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 760
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 760
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 761
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 760
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 757
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 757
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 763
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 762
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_50
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 762
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 684
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 684
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 684
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_54
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 711
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 684
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 686
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 686
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 686
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 686
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_60
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 686
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_61
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 686
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_62
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 692
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_63
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 719
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_64
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 692
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 703
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_66
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 702
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_67
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 622
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 622
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_69
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 629
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 617
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_71
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 617
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 616
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_73
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 621
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_74
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 621
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_75
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 623
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 542
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_77
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 543
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_78
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 543
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 543
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_80
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 543
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_81
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 543
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 544
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 547
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_84
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 547
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 547
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_86
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 548
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_87
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 548
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_88
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 550
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_89
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 550
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_90
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 475
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 535
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_92
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 478
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_93
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 478
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_94
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 475
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_95
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 476
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_96
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 475
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_97
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 478
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_98
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 481
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_99
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 478
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 478
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_101
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 478
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_102
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 418
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 419
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 421
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_105
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 421
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_106
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 416
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_107
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 415
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_108
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 415
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_109
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 415
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_110
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 423
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_111
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 411
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_112
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 417
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_113
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 369
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_114
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 368
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_115
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 361
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_116
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 372
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_117
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 372
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 370
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_119
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 378
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 300
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_121
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 300
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_122
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 300
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_123
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 300
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_124
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_125
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 300
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_126
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 303
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_127
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 302
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_128
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 336
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_129
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 287
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_130
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 325
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_131
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 306
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_132
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 286
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_133
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 305
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_134
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 241
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_135
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_136
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 240
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_138
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 234
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_139
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 239
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_140
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 271
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_141
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 239
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_142
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 239
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_143
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 273
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_144
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 239
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_145
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 174
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_146
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 174
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_147
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 174
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_148
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 177
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_149
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 174
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_150
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 199
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_151
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 199
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_152
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 199
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_153
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 200
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_154
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 200
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_155
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 198
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_156
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 170
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_157
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_158
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 179
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_159
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 173
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_160
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 173
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_161
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 173
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_162
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 174
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_163
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_164
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 172
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_165
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_166
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_167
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 91
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_168
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 63
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 83
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_170
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_171
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 76
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_172
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 94
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_173
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 85
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_174
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_175
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 7
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_176
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 7
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_177
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 7
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_178
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 7
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_179
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_180
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 38
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_181
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 38
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_182
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 38
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_183
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_184
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_185
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_186
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_187
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_188
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_189
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_190
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_191
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_192
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_193
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 22
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_194
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet_Billy_195
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 22
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
