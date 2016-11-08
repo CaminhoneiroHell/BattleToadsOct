@@ -62,7 +62,8 @@ public class PlayerController : MonoBehaviour
         PlayerMover();
         PlayerInput();
 
-        print(grounded);
+        //Verificar bool para checar se o player está no chão ou no ar.
+        //print(grounded);
 
         grounded = Physics2D.Linecast(transform.position,
             groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
