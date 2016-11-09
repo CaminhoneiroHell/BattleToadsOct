@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
 
     public Animator anim_player;
     public GameObject kick;
+    public GameObject boost;
     public GameObject bike;
     public GameObject flame;
     public Transform playerT;
@@ -175,6 +176,7 @@ public class PlayerController : MonoBehaviour
         GetComponent<Rigidbody2D>().AddForce(new Vector2(player_boost, 0));
         //this.gameObject.tag = "Attack";
         anim_player.SetTrigger("BoostBike");
+        boost.SetActive(true);
         attack = true;
     }
 

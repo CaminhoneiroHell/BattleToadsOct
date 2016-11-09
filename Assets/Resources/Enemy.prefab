@@ -563,12 +563,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0
-  shotDelay: 0
-  canShot: 0
   startPosition: {x: 0, y: 0, z: 0}
-  bullet: {fileID: 0}
   explosion: {fileID: 1000010360560182, guid: 8fdd89990cff54d48bd5b1b4a729d0a0, type: 2}
   burning: {fileID: 1000013726720132}
+  enemyType: 1
 --- !u!212 &212000012481265884
 SpriteRenderer:
   m_ObjectHideFlags: 1

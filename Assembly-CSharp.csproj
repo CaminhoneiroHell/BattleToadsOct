@@ -62,6 +62,7 @@
      <Compile Include="Assets\sumScore\Scripts\SumScoreManager.cs" />
      <None Include="Assets\sumScore\LICENSE.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\SkeletonData\animations.txt" />
      <None Include="Assets\sumScore\README.md.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

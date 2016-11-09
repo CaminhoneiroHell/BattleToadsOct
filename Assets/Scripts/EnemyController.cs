@@ -1,22 +1,45 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+public enum EnemyType
+{
+    inofencive,
+    agressive
+}
+
 public class EnemyController : Enemy {
  
     int currentHp;
     int hp = 5;
     bool isBurning;
+    Animator anim_enemy;
     SpriteRenderer spriteRend;
+    public EnemyType enemyType;
 
     void Start()
     {
         currentHp = hp;
+        anim_enemy = GetComponent<Animator>();
         spriteRend = GetComponent<SpriteRenderer>();
     }
 
-    void Update ()
+    void Update()
     {
-        Lerp();
+        HandleEnemyType();
+    }
+
+    void HandleEnemyType()
+    {
+        switch(enemyType)
+        {
+            case EnemyType.agressive:
+                Lerp();
+                break;
+            case EnemyType.inofencive:
+                hp = 1;
+                Walk();
+                break;
+        }
     }
     
     void Lerp ()
@@ -27,14 +50,31 @@ public class EnemyController : Enemy {
         transform.Translate(x * Time.deltaTime, y, z);
     }
 
+    void Walk()
+    {
+        float y = startPosition.y;
+        float z = startPosition.z;
+        transform.Translate(-2 * Time.deltaTime, y, z);
+    }
+
+    void Die()
+    {
+        anim_enemy.SetTrigger("Die");
+    }
+
     private void OnTriggerEnter2D(Collider2D c)
     {
-        if(c.gameObject.tag == "Fire")
-        {
-            isBurning = true;
-            Burn(spriteRend);
-            transform.Translate(100* Time.deltaTime, startPosition.y, startPosition.z);
-        }
+
+        //if (c.gameObject.tag == "Fire")
+        //{
+        //    if (anim_enemy != null)
+        //    {
+        //        anim_enemy.SetTrigger("Die");
+        //    }
+        //    isBurning = true;
+        //    Burn(spriteRend);
+        //    transform.Translate(100* Time.deltaTime, startPosition.y, startPosition.z);
+        //}
 
         if (c.gameObject.tag == "Attack")
         {
@@ -43,12 +83,20 @@ public class EnemyController : Enemy {
             Debug.Log(hp);
             if (hp <= 0)
             {
-                Destroy(this.gameObject);
-                Explosion();
+                if(anim_enemy != null)
+                {
+                    anim_enemy.SetTrigger("Die");
+                    Destroy(this.gameObject, 3f);
+                }
+                else
+                {
+                    Explosion();
+                    Destroy(this.gameObject, 3f);
+                }
             }
 
             //Step back "logic" while get hitted
-            transform.Translate(-10 * Time.deltaTime, startPosition.y, startPosition.z);
+            //transform.Translate(-10 * Time.deltaTime, startPosition.y, startPosition.z);
         }
     }
 }
