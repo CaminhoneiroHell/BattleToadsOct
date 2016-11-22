@@ -122,16 +122,16 @@ public class PlayerController : MonoBehaviour
         #region Limita x e y
 
         //x
-        //if (transform.position.x <= 9f)
-        //    transform.position = new Vector3(9f, transform.position.y, transform.position.z);
-        //else if (transform.position.x >= 12f)
-        //    transform.position = new Vector3(12f, transform.position.y, transform.position.z);
+        if (transform.position.x <= 9f)
+            transform.position = new Vector3(9f, transform.position.y, transform.position.z);
+        else if (transform.position.x >= 12f)
+            transform.position = new Vector3(12f, transform.position.y, transform.position.z);
 
         //y
-        //if (transform.position.y <= -0.51f)
-        //    transform.position = new Vector3(transform.position.x, -0.51f, transform.position.z);
-        //else if (transform.position.y >= -0.01f)
-        //    transform.position = new Vector3(transform.position.x, -0.01f, transform.position.z);
+        if (transform.position.y <= -0.51f)
+            transform.position = new Vector3(transform.position.x, -0.51f, transform.position.z);
+        else if (transform.position.y >= -0.01f)
+            transform.position = new Vector3(transform.position.x, -0.01f, transform.position.z);
 
 
         #endregion
@@ -141,14 +141,14 @@ public class PlayerController : MonoBehaviour
         //    anim_player.SetTrigger("JumpBike");
         //    player_body.gravityScale = -2f;
 
-            //float minimum = 10.0F;
-            //float maximum = 20.0F;
-            //transform.position = new Vector3(0, Mathf.Lerp(minimum, maximum, Time.time), 0);
+        //float minimum = 10.0F;
+        //float maximum = 20.0F;
+        //transform.position = new Vector3(0, Mathf.Lerp(minimum, maximum, Time.time), 0);
 
 
-            //float min = -0.51f;
-            //float max = 0.1f;
-            //transform.position = new Vector3(transform.position.x, Mathf.Lerp(min, max, Time.time), 0);
+        //float min = -0.51f;
+        //float max = 0.1f;
+        //transform.position = new Vector3(transform.position.x, Mathf.Lerp(min, max, Time.time), 0);
         //}
     }
 
@@ -213,12 +213,10 @@ public class PlayerController : MonoBehaviour
         }
         if (Input.GetMouseButtonDown(0))
         {
-
             BoostFront();
         }
         if (Input.GetMouseButtonDown(1))
         {
-
             KickBack();
         }
         if(!Input.GetMouseButtonDown(0) && !Input.GetMouseButtonDown(1))
