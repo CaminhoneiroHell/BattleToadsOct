@@ -46,10 +46,22 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+     <Compile Include="Assets\Editor\PackageTool.cs" />
+     <Compile Include="Assets\Kino\Glitch\Editor\AnalogGlitchEditor.cs" />
+     <Compile Include="Assets\Kino\Glitch\Editor\DigitalGlitchEditor.cs" />
+     <None Include="Assets\Kino\Glitch\Shader\AnalogGlitch.shader" />
+     <None Include="Assets\Kino\Glitch\Shader\DigitalGlitch.shader" />
      <None Include="Assets\sumScore\LICENSE.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Elementals\Readme.txt" />
      <None Include="Assets\SkeletonData\animations.txt" />
      <None Include="Assets\sumScore\README.md.txt" />
+     <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
+     <None Include="Assets\GE Common Assets\Readme.txt" />
+     <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>C:/Users/Anubis/Documents/OktagonBattletoadsChallenge/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -76,6 +88,12 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="GETween">
+ <HintPath>C:/Users/Anubis/Documents/OktagonBattletoadsChallenge/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
+ </Reference>
+ <Reference Include="GUIAnimatorFREE">
+ <HintPath>C:/Users/Anubis/Documents/OktagonBattletoadsChallenge/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>

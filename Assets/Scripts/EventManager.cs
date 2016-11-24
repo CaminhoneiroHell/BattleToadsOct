@@ -6,8 +6,6 @@ public class EventManager : MonoBehaviour
     public delegate void StartGameDelegate();
     public static StartGameDelegate onStartGame;
 
-    public delegate void StartSelectCharDelegate();
-    public static StartSelectCharDelegate onStartSelectChar;
 
     public delegate void TakeDamageDelegate(float amt);
     public static TakeDamageDelegate onTakeDamage;
@@ -20,13 +18,6 @@ public class EventManager : MonoBehaviour
             onStartGame();
     }
 
-    public static void SelectChar()
-    {
-        Debug.Log("StartGame");
-        if (onStartSelectChar != null)
-            onStartSelectChar();
-    }
-
     public static void TakeDamage(float percent)
     {
         Debug.Log("TakeDamage" + percent);
@@ -34,4 +25,3 @@ public class EventManager : MonoBehaviour
             onTakeDamage(percent);
     }
 }
-

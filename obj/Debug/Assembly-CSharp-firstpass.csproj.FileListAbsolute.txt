@@ -21,3 +21,5 @@ C:\Users\Anubis\Documents\OktagonBattletoadsChallenge\Temp\bin\Debug\UnityEngine
 C:\Users\Anubis\Documents\OktagonBattletoadsChallenge\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\Anubis\Documents\OktagonBattletoadsChallenge\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\Anubis\Documents\OktagonBattletoadsChallenge\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Anubis\Documents\OktagonBattletoadsChallenge\Temp\bin\Debug\GETween.dll
+C:\Users\Anubis\Documents\OktagonBattletoadsChallenge\Temp\bin\Debug\GUIAnimatorFREE.dll

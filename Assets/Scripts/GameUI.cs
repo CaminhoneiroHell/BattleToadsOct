@@ -4,13 +4,9 @@ using System.Collections;
 
 public class GameUI : MonoBehaviour
 {
-    bool isDisplayed = false;
+    bool isDisplayed = true;
     [SerializeField]
     GameObject playButton;
-    [SerializeField]
-    GameObject billySelectButton;
-    [SerializeField]
-    GameObject zitsSelectButton;
 
     void OnEnable()
     {
@@ -24,29 +20,12 @@ public class GameUI : MonoBehaviour
 
     void HidePanel()
     {
-        //isDisplayed = !isDisplayed;
-        //playButton.SetActive(isDisplayed);
-
         isDisplayed = !isDisplayed;
-       // playButton.SetActive(isDisplayed);
-
-        if (isDisplayed)
-        {
-            billySelectButton.SetActive(true);
-            zitsSelectButton.SetActive(true);
-            playButton.SetActive(false);
-        }
-        else
-        {
-            billySelectButton.SetActive(false);
-            zitsSelectButton.SetActive(false);
-            playButton.SetActive(true);
-        }
+        playButton.SetActive(isDisplayed);
     }
-
+    
     public void PlayGame()
     {
         EventManager.StartGame();
     }
-
 }
